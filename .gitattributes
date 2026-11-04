@@ -1,0 +1,10 @@
+# Textdateien immer mit LF speichern, auch unter Windows.
+# Sonst findet make_roman.py seine Anker nicht, und die erzeugte md weicht ab.
+*.md      text eol=lf
+*.sh      text eol=lf
+*.py      text eol=lf
+*.lua     text eol=lf
+*.tex     text eol=lf
+*.tsv     text eol=lf
+*.json    text eol=lf
+.git*     text eol=lf

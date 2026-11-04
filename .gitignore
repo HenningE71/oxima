@@ -1,0 +1,15 @@
+# Bauprodukte (entstehen bei jedem Lauf von build_roman.sh neu)
+/AUSFUEHRUNG_Roman_*.md
+/out_ROMAN/
+/satz/absatz.tex
+/titelblatt/titelblatt.pdf
+/titelblatt/*.aux
+/titelblatt/*.log
+
+# Schriften des Umschlags: lokal ablegen, nicht veröffentlichen (siehe README)
+/titelblatt/fonts/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+__pycache__/
