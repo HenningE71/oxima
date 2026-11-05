@@ -1,6 +1,6 @@
 # AUSFÜHRUNG · Ein Verfahren
 
-Quellen und Bauanlage des Romans *AUSFÜHRUNG. Ein Verfahren* von Henning Ehlert. Aus diesem Repository entsteht die Ausgabe **R 1.0 F** als PDF (A5, 246 Seiten: Umschlag und 245 Seiten Buchblock) und als Markdown.
+Quellen und Bauanlage des Romans *AUSFÜHRUNG. Ein Verfahren* von Henning Ehlert. In diesem Repository steht die aktuelle Ausgabe als PDF und als Markdown.
 
 Der Roman steht als PDF auf [aoxima.com](https://aoxima.com) bereit, erreichbar unter anderem über ausfuehrung.com.
 
