@@ -75,7 +75,7 @@ Nach jedem Bau:
 
 1. Errata-Ausgabe: Alle Zeilen müssen `OK` zeigen. Der Bau bricht bei `FEHLT` nicht ab; das Protokoll steht in `out_ROMAN/errata_*.log`.
 2. Seitenzahl: `Pages: 246`.
-3. `sha256sum AUSFUEHRUNG_Roman_R1.0F.md` (macOS: `shasum -a 256 …`) beginnt mit `d940df9415de888b`. Dann ist der Quelltext zeichengleich mit der Ausgabe R 1.0 F.
+3. `sha256sum AUSFUEHRUNG_Roman_R1.0F.md` (macOS: `shasum -a 256 …`) beginnt mit `f6f8f15fd64a6aef`. Dann ist der Quelltext zeichengleich mit der Ausgabe R 1.0 F.
 
 Das PDF selbst ist nicht bytegleich reproduzierbar (Zeitstempel und Kennung). Maßgeblich sind die md, die Seitenzahl und die Errata.
 

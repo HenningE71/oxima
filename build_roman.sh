@@ -17,5 +17,5 @@ mkdir -p out_ROMAN
 UMBRUCH_TSV=satz/umbruch_roman.tsv SHRINK=0.12 sh body.sh $R.md out_ROMAN/body_$R.pdf
 python3 -I errata_check.py out_ROMAN/body_$R.pdf errata_stellen.json $R.md | tee out_ROMAN/errata_$R.log
 qpdf --empty --pages titelblatt/titelblatt.pdf out_ROMAN/body_$R.pdf -- out_ROMAN/$R.pdf
-python3 -I meta_he.py out_ROMAN/$R.pdf "AUSFÜHRUNG. Ein Verfahren" "Roman. Fassung R 1.0 F mit Nachwort des Autors (Stand 04.11.2026)."
+python3 -I meta_he.py out_ROMAN/$R.pdf "AUSFÜHRUNG. Ein Verfahren" "Roman. Fassung R 1.0 F mit Nachwort des Autors (Stand 11.11.2026)."
 pdfinfo out_ROMAN/$R.pdf | grep Pages
