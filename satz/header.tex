@@ -129,16 +129,40 @@
   {\normalsize\bfseries}{}{0pt}{}
 \titlespacing*{\subsubsection}{0pt}{0.5\baselineskip}{0.5\baselineskip}
 
-% Inhaltsverzeichnis: Punktführung auch für Akte, gestufte Einzüge,
-% großer Titel mit Vorlauf
+% Inhaltsverzeichnis: Punktführung auch für Akte, gestufte Einzüge. Titel
+% ohne Vorlauf in der Größe der Kapitelüberschriften (beginnt wie »Vorwort«
+% auf der Folgeseite). Ein Akt wird nicht über zwei Seiten getrennt (kein
+% Umbruch vor einem Kapiteleintrag). Vorwort und die Teile nach Kapitel 32
+% stehen auf der Ebene der Akte, in zwei Gruppen: Epilog / Nachwort des
+% Lektors / Errata und Nachwort des Autors / Quellen / Impressum. Wirkt nur
+% auf das Inhaltsverzeichnis, nicht auf den Buchblock.
 \makeatletter
 \renewcommand*\l@section{\addvspace{0.6\baselineskip}\@dottedtocline{1}{1.5em}{2.3em}}
-\renewcommand*\l@subsection{\@dottedtocline{2}{3.8em}{3.2em}}
+\renewcommand*\l@subsection{\nobreak\@dottedtocline{2}{3.8em}{3.2em}}
+\newcommand*\l@rahmen{\@dottedtocline{1}{1.5em}{2.3em}}
+% Seitenzahlspalte breiter, damit dreistellige Zahlen nicht an die Punkte stoßen
+\renewcommand*\@pnumwidth{2.1em}
+\renewcommand*\@tocrmarg{3em}
+\newcommand\ae@rahmen[2]{\expandafter\def\csname ae@toc@\detokenize{#1}\endcsname{#2}}
+\ae@rahmen{Vorwort}{}
+\ae@rahmen{Epilog}{\addvspace{0.6\baselineskip}}
+\ae@rahmen{Nachwort des Lektors}{\nobreak}
+\ae@rahmen{Errata}{\nobreak}
+\ae@rahmen{Nachwort des Autors}{\addvspace{0.6\baselineskip}}
+\ae@rahmen{Quellen und weiterführende Literatur}{\nobreak}
+\ae@rahmen{Impressum und Lizenz}{\nobreak}
 \renewcommand\tableofcontents{%
-  \vspace*{4.5em}%
-  {\noindent\Huge\bfseries\contentsname\par}%
+  {\noindent\large\bfseries\contentsname\par}%
   \markboth{\contentsname}{\contentsname}%
-  \vspace{2.5em}%
+  \vspace{0.4\baselineskip}%
+  \let\ae@contentsline\contentsline
+  \def\contentsline##1##2##3##4{%
+    \ifcsname ae@toc@\detokenize{##2}\endcsname
+      \csname ae@toc@\detokenize{##2}\endcsname
+      \ae@contentsline{rahmen}{##2}{##3}{##4}%
+    \else
+      \ae@contentsline{##1}{##2}{##3}{##4}%
+    \fi}%
   \@starttoc{toc}%
 }
 \makeatother

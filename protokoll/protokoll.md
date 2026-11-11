@@ -21,7 +21,7 @@ Dieses Protokoll ist kein Versuchsbericht. Das Verfahren war nicht als Experimen
 
 # 2 Regeln
 
-Für die Arbeit galten Regeln. Keine autonome Agentenlogik auf meiner Ebene: Jede Ausgabe habe ich von Hand angefordert und übernommen oder verworfen; kein Text gelangte ohne meine Freigabe ins Buch. Welche Schritte ein Modell ausführte, bevor es mir etwas vorlegte, kann ich nicht beurteilen; geprüft habe ich, was es vorlegte. Für einen späteren Versuch habe ich diese Regel aufgehoben; für den Text dieses Buches gilt sie, mit der Ausnahme, die der Nachtrag nennt. Skripte liefen nur für Satz, Messung und das Einspielen freigegebener Korrekturen. Keine nachträgliche Erwärmung oder Anreicherung. Jede Zahl muss sich nachrechnen lassen, und die Konstruktion muss funktionieren. Für die Szenen wurden Rahmenbedingungen festgelegt: wer darin vorkommen muss, was gesagt werden muss, was ungesagt bleiben muss und was am Kapitelende zurückbleibt.
+Für die Arbeit galten Regeln. Keine autonome Agentenlogik auf meiner Ebene: Jede Ausgabe habe ich von Hand angefordert und übernommen oder verworfen; kein Text gelangte ohne meine Freigabe ins Buch. Welche Schritte ein Modell ausführte, bevor es mir etwas vorlegte, kann ich nicht beurteilen; geprüft habe ich, was es vorlegte. Für einen späteren Versuch habe ich diese Regel aufgehoben; für den Text dieses Buches gilt sie, mit der Ausnahme, die der Nachtrag nennt. Skripte liefen nur für Satz, Messung und das Einspielen freigegebener Korrekturen. Nachträglich möglichst keine Erwärmung oder Anreicherung: Wo ein Satz unklar, falsch oder überflüssig war, habe ich ihn berichtigt oder gestrichen, an manchen Stellen mit einem Satz mehr, wo sonst ein Zusammenhang fehlte. Jede Zahl muss sich nachrechnen lassen, und die Konstruktion muss funktionieren. Für die Szenen wurden Rahmenbedingungen festgelegt: wer darin vorkommen muss, was gesagt werden muss, was ungesagt bleiben muss und was am Kapitelende zurückbleibt.
 
 # 3 Übersicht
 
@@ -191,9 +191,9 @@ Ein weiterer Vorschlag zielte in dieselbe Richtung: Er lautete, auf einen Vorbeh
 | Absätze nur »Ja.«, »Nein.«, »Und?«, »Ich weiß.« | 49 | 34 | 27 |
 | »Ich weiß« insgesamt | 28 | 26 | 12 |
 | »Frau Reiter, …« | 11 | 11 | 2 |
-| Einwortrepliken (Anteil) | 200 (13,1 %) | 186 (12,4 %) | 176 (12,0 %) |
+| Einwortrepliken (Anteil) | 200 (13,1 %) | 186 (12,4 %) | 174 (11,9 %) |
 
-Nachgerechnet an den drei Fassungen, im Romantext (Vorwort bis Errata mit dem Nachwort des Lektors, ohne Nachwort des Autors, Quellen und Impressum). Replik: Text zwischen » und «, insgesamt 1.529, 1.505, 1.467. Mengenvorgaben gab es nicht.
+Nachgerechnet an den drei Fassungen, R 1.0 F im Stand nach der Durchsicht (Abschnitt 6), im Romantext (Vorwort bis Errata mit dem Nachwort des Lektors, ohne Nachwort des Autors, Quellen und Impressum). Replik: Text zwischen » und «, insgesamt 1.529, 1.505, 1.462. Mengenvorgaben gab es nicht.
 
 # 6 Fassungen, Durchgänge und Korrekturen
 
@@ -213,7 +213,7 @@ Nachgerechnet an den drei Fassungen, im Romantext (Vorwort bis Errata mit dem Na
 | RC 1.3 | Neunte, A0: im eingefrorenen Text zwei Dubletten gestrichen (der Serverraum; »Reiter sagte lange nichts.«); von 72 Fundstellen waren zwei echte Fehler. Seither ist RC 1.3 der eingefrorene Text, gegen den die Glättungen verglichen sind. Nachtrag zum Nachwort; Anlass überarbeitet, Quellen ergänzt. |
 | R 1.0 | Neunte, A3: Kurzrepliken (»Ja.«, »Nein.«, »Und?«, »Ich weiß«) und Zähl-Tic geglättet, 21 Eingriffe, jeder einzeln freigegeben; ein Wochentag in Kap. 30 berichtigt; Impressum: agentischer Einsatz offengelegt. |
 | R 1.0 S | Zahlenprüfung, ebenso in R 1.0 F: eine Zahl in Kap. 32 (1.200 statt 1.140 Fassungen), ein fehlender Absatz in Kap. 19, vier Formulierungen. Keine zehnte Freigabe, die Versionsnummer bleibt. Namen und Hinweis zur Fiktion geprüft und angepasst. |
-| R 1.0 F | Neunte, A4: zweite Glättung durch ein zweites Modell, zuerst Akt 1 als Test, dann alle drei Akte. Vorgabe: keine Inhalte, Zahlen oder Kapitelschlusssätze ändern. Danach, bei unverändertem Romantext: Nachwort neu geschrieben, Quellen in »Zum Roman« und »Zum Nachwort« geteilt, geprüft und gekürzt, Impressum neu gefasst. Dann in Kap. 1 drei Sätze zur Totenstarre neu gefasst; zuletzt Nachwort und Impressum an einzelnen Stellen überarbeitet. |
+| R 1.0 F | Neunte, A4: zweite Glättung durch ein zweites Modell, zuerst Akt 1 als Test, dann alle drei Akte. Vorgabe: keine Inhalte, Zahlen oder Kapitelschlusssätze ändern. Danach, bei unverändertem Romantext: Nachwort neu geschrieben, Quellen in »Zum Roman« und »Zum Nachwort« geteilt, geprüft und gekürzt, Impressum neu gefasst. Dann in Kap. 1 drei Sätze zur Totenstarre neu gefasst; danach Nachwort und Impressum an einzelnen Stellen überarbeitet. Zuletzt, ohne eigenes Formular, meine Durchsicht des Romantextes, Kapitel für Kapitel: 92 Stellen berichtigt, gekürzt oder gestrichen, an manchen um einen Satz ergänzt, wo sonst ein Zusammenhang fehlte; der Epilog blieb, wie er war. |
 
 Die Tabelle nennt je Fassung nur die Schwerpunkte; geändert wurde meist mehr. Kapitel nach der gedruckten Zählung. Das Zahlenwerk des Romans (Zeitangaben, Abstände, Fallzahlen, Messwerte, Schreibweise der Zahlen) wurde über die ganze Reihe nachgezogen, von 0.9 bis zur Zahlenprüfung in R 1.0 S und F.
 
