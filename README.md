@@ -1,6 +1,6 @@
 # AUSFÜHRUNG · Ein Verfahren
 
-Quellen und Bauanlage des Romans *AUSFÜHRUNG. Ein Verfahren* von Henning Ehlert. In diesem Repository steht der Text der aktuellen Ausgabe als Markdown.
+Quellen und Bauanlage des Romans *AUSFÜHRUNG. Ein Verfahren*. In diesem Repository steht der Text der aktuellen Ausgabe als Markdown.
 
 Der Roman steht als PDF auf [aoxima.com](https://aoxima.com) bereit, erreichbar unter anderem über ausfuehrung.com.
 
