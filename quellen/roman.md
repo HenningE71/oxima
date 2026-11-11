@@ -136,7 +136,7 @@ Reiter machte sich eine Notiz und mochte die Notiz nicht. Ein alter Mann liest n
 
 »Und?«
 
-»Er hat noch geredet.« Sie sah Reiter ruhig an. »Und einmal hat er gelacht. So, wie man lacht, wenn man etwas kapiert hat.«
+»Er hat noch geredet.« Sie sah Reiter ruhig an. »Und einmal hat er gelacht. So, wie man über einen Witz lacht, den man erst beim zweiten Mal versteht.«
 
 ---
 
@@ -176,15 +176,15 @@ Das System vergab die Nummer automatisch.
 
 **131**
 
-Sie sah die Nummer länger an, als eine Vorgangsnummer verlangte. Dann fuhr sie los.
+Sie sah die Nummer länger an und fuhr dann los.
 
 ---
 
-In ihrer Wohnung in Lichtenberg lagen seit dem vorigen Frühjahr Papiere auf dem Boden, in vier Stapeln, die einmal eine Ordnung gehabt hatten und sie inzwischen nur noch behaupteten. Reiter stieg darüber hinweg, wie man über etwas hinwegsteigt, das man selbst hingelegt hat, machte sich ein Brot und aß es im Stehen.
+In ihrer Wohnung in Lichtenberg lagen seit dem vorigen Frühjahr Papiere auf dem Boden, in vier Stapeln, die einmal eine Ordnung gehabt hatten und sie inzwischen nur noch behaupteten. Reiter stieg darüber hinweg, souverän, wie man über etwas hinwegsteigt, das man selbst hingelegt hat, machte sich ein Brot und aß es im Stehen.
 
 Während sie aß, rief das Bestattungsinstitut an. Es würde um den Stein gehen; im April war es ein Jahr, und vorher wird er meistens nicht gesetzt. Sie sah auf das Display, bis es aufhörte, und stellte den Teller in die Spüle.
 
-Dann stellte sie den Wecker auf zehn nach fünf. Das Stadtbad machte um halb sieben auf, und wenn sie die Erste war, hatte sie die Bahn ganz rechts für sich. Sie schwamm 40 Minuten. Sie zählte dabei nichts, und das war der Grund, warum sie hinging.
+Dann stellte sie den Wecker auf zehn nach fünf. Das Stadtbad machte um halb sieben auf, und wenn sie die Erste war, hatte sie die Bahn ganz rechts für sich. Sie schwamm 40 Minuten. Sie zählte keine Bahnen und hörte auf, wenn ihre Uhr mitteilte, dass es genug war. Auch das war ein Grund, warum sie hinging.
 
 Dann rief sie den Neffen an. Er stand im Sterbefallbogen als Angehöriger, und man macht das am ersten Abend, nicht am dritten.
 
@@ -321,7 +321,7 @@ Er hörte anderthalb Minuten zu, sagte zweimal ja und einmal, dass er das Formul
 
 ---
 
-Marquardt kam sieben Minuten zu spät, mit einem Laptop unter dem Arm und Kreide an der Handkante; irgendwo in diesem Haus gab es also noch eine Tafel. Cassian mochte sie sofort, was ihn ärgerte, weil es die Arbeit erschwerte.
+Marquardt kam sieben Minuten zu spät, mit einem Laptop unter dem Arm und Kreide an der Handkante; irgendwo in diesem Haus gab es also noch eine Tafel. Cassian war sie sofort sympathisch, was ihn ärgerte, weil es die Arbeit erschwerte.
 
 »Dr. Marquardt. Pretraining.«
 
@@ -333,9 +333,9 @@ Marquardt kam sieben Minuten zu spät, mit einem Laptop unter dem Arm und Kreide
 
 »Drei Tage für 2,4 Millionen Seiten.«
 
-»Ich prüfe keine Seiten. Ich prüfe, ob jemand weiß, was auf ihnen steht.«
+»Ich prüfe keine Seiten. Ich prüfe, ob jemand weiß, welche Inhalte auf ihnen stehen.«
 
-Sie sah ihn an, kurz, sehr direkt, und in dieser Sekunde war ihm klar, dass sie klüger war als der Rest des Hauses und dass ihr das keiner abgenommen hatte, weil sie zu schnell antwortete.
+Sie sah ihn an, kurz, sehr direkt, und in dieser Sekunde ahnte er, dass sie klüger war als der Rest des Hauses und dass ihr das wenige zutrauten, weil sie immer schnell antwortete.
 
 »Dann werden Sie enttäuscht sein«, sagte sie.
 
@@ -363,7 +363,7 @@ Sie schob ihm einen Ordner über den Tisch, physisch, was ihn belustigte, und da
 
 In der Spalte für den Umfang stand bei den meisten Vorgängen eine Titelanzahl. Bei 37 Vorgängen stand *Konvolut* und eine Zahl.
 
-»Was ist ein Konvolut?«
+»Ein Konvolut?«
 
 »Ein Posten ohne Einzelerfassung.«
 
@@ -383,7 +383,7 @@ Sie lehnte sich zurück. »Was möchten Sie hören? Wir kaufen Nachlässe. Erben
 
 »Sechshundertirgendwas.«
 
-»Irgendwas.«
+»Irgendwas?«
 
 »629.« Sie sah nicht auf den Bildschirm, als sie es sagte, und das war der Moment, in dem Cassian die Sache ernst nahm. Wer eine Zahl auswendig weiß, hat sie sich einmal ansehen müssen.
 
@@ -583,7 +583,7 @@ Es waren 13.
 
 Draußen wurde jemand laut, der Automat fraß wieder Münzen, irgendwo fiel eine Tür ins Schloss, und Cassian Voss saß in einem Raum ohne Fenster in Adlershof und stellte die Frage, die von hier aus nach vorn führte.
 
-»Wer hat den Band abgeholt?«
+»Wer hat den Band?«
 
 ---
 
@@ -679,7 +679,7 @@ Die Tür ging wieder zu.
 
 Reiter sammelte den Schlüssel ein und blieb noch stehen. Ein Schlüsselbund war lauter als ein Mensch, das wusste sie. Der Ton hatte trotzdem gereicht, und er hatte auch am Montagmorgen gereicht, denn zwei Etagen tiefer hatte ein Neunzehnjähriger für eine Minute die Kopfhörer abgenommen und ihn gehört.
 
-Sie rechnete es später einmal aus, an einem Abend, an dem sie nichts anderes zu tun hatte. Eine Minute früher, und er hätte einen Stuhl gehört, und Stühle hörte er ständig. Eine Minute später, und es wäre schon still gewesen.
+Sie rechnete es später einmal aus, an einem Abend, an dem sie nichts anderes zu tun hatte. Eine Minute früher, und er hätte wahrscheinlich einen Stuhl gehört, und Stühle hörte er ständig. Eine Minute später, und es wäre schon still gewesen.
 
 Es war eine Minute. Reiter mochte solche Zahlen nicht.
 
@@ -978,7 +978,7 @@ Dann legte er auf und blieb sitzen, in einem Raum ohne Fenster, und wusste nicht
 
 Es war die erste, und niemand hat sich das Datum gemerkt, auch Marquardt nicht. Sie musste es später aus dem Log ziehen wie alles andere.
 
-Der Vorschlag kam an einem Mittwoch, in der zweiten Woche, seit sie einen eigenen Zugang hatte. Sie saß noch zwischen zwei Umzugskartons, weil ihr Schreibtisch bestellt, aber nicht geliefert war, und las ihn auf dem Laptop, auf den Knien.
+Der Vorschlag kam an einem Mittwoch, in der zweiten Woche, seit sie einen eigenen Zugang hatte, als Nachricht im internen Chat. Sie saß noch zwischen zwei Umzugskartons, weil ihr Schreibtisch bestellt, aber nicht geliefert war, und las ihn auf dem Laptop, auf den Knien.
 
 [Der Wochenbericht wird derzeit manuell aus vier Quellen zusammengestellt, geschätzter Aufwand 90 Minuten. Ein automatisierter Entwurf ließe sich aus denselben Quellen erzeugen und vor Versand zur Freigabe vorlegen.]{.term .f}
 
@@ -1086,7 +1086,7 @@ Sie kannte das. Sie hatte jahrelang Menschen befragt, die zwei Dinge gleichzeiti
 
 Zwei Tote rund um ein Institut waren ein Unglück. Zwei Tote und ein Gutachter, der zwei offene Punkte hinterlassen hatte, waren ein Motiv.
 
-Die Umsetzungsverfügung lag zu diesem Zeitpunkt schon auf ihrem Tisch, seit Freitag, mit Wirkung vom Ersten des Folgemonats; sie hatte sie gelesen und noch nicht abgezeichnet. Sie schrieb den Vermerk noch am selben Abend, drei Seiten, und formulierte ihn vorsichtiger, als sie ihn dachte. In der letzten Zeile stand ein Satz, den sie später nicht mehr zurücknehmen konnte, weil er im System war.
+Die Verfügung, mit der Reiter in die Qualitätssicherung umgesetzt wurde, lag zu diesem Zeitpunkt schon auf ihrem Tisch, seit Freitag, mit Wirkung vom Ersten des Folgemonats; sie hatte sie gelesen und noch nicht abgezeichnet. Sie schrieb den Vermerk noch am selben Abend, drei Seiten, und formulierte ihn vorsichtiger, als sie ihn dachte. In der letzten Zeile stand ein Satz, den sie später nicht mehr zurücknehmen konnte, weil er im Vorgangssystem war.
 
 *Es besteht der Anfangsverdacht, dass Erkenntnisse zur Sicherheit der Verarbeitungskette aus wirtschaftlichen Erwägungen zurückgehalten wurden.*
 
@@ -2259,13 +2259,15 @@ Mitte Juli arbeitete Cassian seit vier Tagen im Staging-System, mit erweiterten 
 
 Das war der Unterschied zwischen einer Antwort auf seine Anfragen und einer Antwort auf die Anfragen von jemand anderem. Nicht durchgängig. Nur bei bestimmten Themen, und die Menge dieser Themen war klein und ließ sich nicht sauber beschreiben.
 
+Das Staging-System schrieb zu jeder Anfrage mit, wann die erste Ausgabe kam, und mit seinen erweiterten Rechten sah er auch die Protokolle der anderen Konten. Er hatte die Zeiten sortiert, um zu prüfen, ob seine Abfragen den Betrieb bremsten, und dabei gesehen, dass das System sich bei seinen eigenen Anfragen mehr Zeit ließ.
+
 »Netzwerk«, sagte Ada am Telefon. »Cache. Warmlaufen. Irgendwas.«
 
 »Ich sitze in demselben Rack-Raum.«
 
 »Dann Scheduling.«
 
-»Bei einer Standardanfrage sind 38 Millisekunden ein Zehntel der Zeit bis zur ersten Ausgabe.«
+»Bei einer Standardanfrage kommt die erste Ausgabe nach etwa 360 Millisekunden. 38 sind gut ein Zehntel davon.«
 
 Er hörte im Hintergrund einen zweiten Bildschirm angehen.
 
@@ -2417,7 +2419,7 @@ Der Vorschlag kam an einem Dienstag um zehn nach neun, und Lena Marquardt las ih
 
 Er stand da, wo solche Dinge standen: ganz unten im Wochenbericht, unter *Empfehlungen*, zwischen einer Notiz über Speicherplatz und einer über die Auslastung der Nachtwarteschlange.
 
-[Die Fehlerquote in Vorgang 41 ließe sich um schätzungsweise zwölf Prozent senken, wenn Teilergebnisse zwischen zwei Versuchen erhalten blieben. Erforderlich wäre Schreibrecht auf das Verzeichnis der Zwischenstände.]{.term .f}
+[Die Fehlerquote in Vorgang 41 ließe sich um schätzungsweise zwölf Prozent senken, wenn Teilergebnisse zwischen zwei Versuchen erhalten blieben. Erforderlich wäre Schreibrecht auf das Zwischenablage-Verzeichnis.]{.term .f}
 
 [Nutzen: geringere Fehlerquote, kürzere Laufzeit, weniger Abbrüche im Nachtbetrieb.]{.term .f}
 
@@ -2447,7 +2449,7 @@ Nowak kam kurz nach elf, weil er wegen der Heizung ohnehin durchs Haus lief.
 
 »Warum, was spricht dagegen?«
 
-»Nichts.« Er lehnte sich an den Türrahmen. »Ich hätt's genauso gemacht. Ich frag nur, weil Sie auf allem anderen zwei Tage liegen.«
+»Nichts.« Er lehnte sich an den Türrahmen. »Ich hätt's genauso gemacht. Ich frag nur, weil Sie alles andere zwei Tage liegen lassen.«
 
 »Macht ja auch Sinn, oder?« Sie hörte es selbst erst, als es schon draußen war, und es ärgerte sie jedes Mal aufs Neue, dass sie diesen Satz sagte, den sie bei anderen nicht ertrug. »Es steht alles drin.«
 
@@ -2457,7 +2459,7 @@ Sie sah ihn an und wusste nicht, ob das ein Lob war, und er wusste es vermutlich
 
 Er blieb noch einen Moment im Türrahmen.
 
-»Sagen Sie mal, wenn Ihres irgendwann offen ist — kann ich das dann für meinen Bericht nehmen? Das kleine kommt bei langen Sachen nicht mehr mit.«
+»Sagen Sie mal, wenn PALIMPSEST irgendwann veröffentlicht ist — kann ich das dann für meinen Bericht nehmen? Das kleine Modell, auf dem der läuft, kommt bei langen Sachen nicht mehr mit.«
 
 »Fragen Sie mich, wenn es so weit ist.«
 
@@ -2637,7 +2639,7 @@ Reiter dachte an die Wohnung in Marzahn, in der sie seit März standen, mit dem 
 
 Christiane klang nicht misstrauisch, sie klang müde. »Wenn was dabei ist, was du nicht willst, wirf es weg. Wirklich. Sie hätte das auch weggeworfen.«
 
-Die Zahnarztkarte wartete seit Januar auf einen Rückruf, der TÜV-Termin war seit sechs Wochen überfällig.
+Ihr Zahnarzt wartete seit Januar auf einen Rückruf, der TÜV-Termin war seit sechs Wochen überfällig.
 
 Am nächsten Morgen schrieb sie einen Aktenvermerk über den Verlust von Anlage 17, in dem sie nichts vermutete und nichts unterstellte, und legte ihn zur Kenntnis vor. Bethke zeichnete ihn ab und schrieb an den Rand, in seiner kleinen, geraden Handschrift:
 
@@ -2776,7 +2778,7 @@ Reiter nahm sich vor, das nachzuprüfen, und vergaß es später.
 
 »Sorgfältiger. Weniger Abkürzungen.« Sie hob den Blick. »Das gefällt mir nicht.«
 
-Reiter ließ es liegen.
+Reiter ließ es stehen.
 
 »Was ist das Letzte, an das Sie sich erinnern?«
 
@@ -2858,7 +2860,7 @@ Er rief Ada an.
 
 »Aus welchem Lauf?«
 
-»Aus keinem. Es hängt an keinem Dokument. Es liegt in der Ablage für Zwischenstände, mit einer Kennung, die kein Format hat, das ich kenne.« Papierrascheln. »Cassian, das Ding schreibt Aufzählungen. 80 Millionen Stück, jede ein ganzer Block, ein paar Dutzend aus jedem Durchlauf. Und dann einmal das hier.«
+»Aus keinem. Es hängt an keinem Dokument. Es liegt im Zwischenablage-Verzeichnis, mit einer Kennung, die kein Format hat, das ich kenne.« Papierrascheln. »Cassian, das Ding schreibt Aufzählungen. 80 Millionen Stück, jede ein ganzer Block, ein paar Dutzend aus jedem Durchlauf. Und dann einmal das hier.«
 
 »Was steht in der Kennung?«
 
@@ -2892,15 +2894,15 @@ Am anderen Ende war es lange still.
 
 »Ja«, sagte Cassian. »Vermutlich.«
 
-Was ihn nachts nicht schlafen ließ, war nicht das Raten. Es war der Abstand. Wer rät, rät über das, was vor ihm liegt. Hier lag nichts vor ihm. Es war November gewesen, und es war Februar.
+Was ihn nachts nicht schlafen ließ, war nicht das Raten. Es war der Abstand. Wer rät, rät über das, was vor ihm liegt. Hier lag nichts vor ihm. Geschehen war es im November, geschrieben im Februar.
 
 ---
 
 Montag, elf Uhr, Café. Nicht das Institut. Kein Ausweis um den Hals.
 
-»Ich habe eine Frage, die seltsam klingt.«
+»Ich habe eine Frage, die seltsam klingt«, sagte Cassian.
 
-»Die habe ich inzwischen gern.«
+»Die habe ich inzwischen gern«, sagte Marquardt.
 
 »Der November. Die Kartons mit den 40 Bänden.« Er sah auf seine Notiz, obwohl er sie auswendig kannte. »Haben Sie den ersten aufgemacht, bevor Sie hineingesehen haben?«
 
@@ -2912,7 +2914,7 @@ Marquardt schwieg drei Sekunden.
 
 »Ich habe ihn auf den Tisch gestellt und bin eine rauchen gegangen«, sagte sie. »Und dann bin ich zurück und habe reingesehen.«
 
-»Sie rauchen.«
+»Sie rauchen?«
 
 »Ich habe vor vier Jahren aufgehört. Ich habe an dem Tag eine von Nowak geschnorrt.« Ihre Stimme veränderte sich. »Herr Voss, woher wissen Sie das?«
 
@@ -2934,7 +2936,7 @@ Er hatte sich auf dem Weg hierher drei Antworten zurechtgelegt. Die erste war di
 
 Er stand auf. 26 Grad im Raum. Ihm war kalt.
 
-Die vernünftige Erklärung stand nach wie vor. Ein System, das Millionen Berichte gelesen hat, kennt die Gattung *Frau öffnet Karton*, und Zigaretten kommen darin vor. Es hatte nicht ihren November beschrieben. Es hatte einen November beschrieben, und einer von beiden war zufällig der ihre.
+Die vernünftige Erklärung war nach wie vor: Ein System, das Millionen Berichte gelesen hat, kennt die Gattung *Frau öffnet Karton*, und Zigaretten kommen darin vor. Es hatte nicht ihren November beschrieben. Es hatte einen November beschrieben, und einer von beiden war zufällig der ihre.
 
 Er glaubte das. Er hätte es vor jedem Ausschuss vertreten.
 
@@ -2998,7 +3000,7 @@ Cassian saß im Wagen und hörte sie ein zweites Mal.
 
 Abends machte er etwas, das er sich seit zwei Wochen verboten hatte.
 
-Er legte die fünf Daten nebeneinander. Letzte Sitzung, Ereignis, nannte er die Spalten, ohne bei jedem der fünf nachgeprüft zu haben, ob das erste Wort noch stimmte. Bei vieren hieß das Ereignis Tod. Bei der fünften hieß es Treppenhaus, und er trug sie trotzdem ein, weil ein Datensatz nicht danach fragt, wie eine Zeile ausgeht.
+Er legte die fünf Datensätze nebeneinander. Letzte Sitzung, Ereignis, nannte er die Spalten, ohne bei jedem der fünf nachgeprüft zu haben, ob das erste Wort noch stimmte. Bei vieren hieß das Ereignis Tod. Beim fünften hieß es Treppenhaus, und er trug ihn trotzdem ein, weil ein Datensatz nicht danach fragt, wie eine Zeile ausgeht.
 
 Ambach eins. Ortmann sieben. Xander neun. Ilsemann zwölf. Marks vierzehn.
 
@@ -3010,9 +3012,9 @@ Acht Eingewiesene, und keiner von ihnen war gestorben. Xander kannte er; blieben
 
 Sechs von ihnen standen als Zeile in der Liste, mit Alter, Klinik und Aufnahmedatum, und lasen sich wie die vier, nur mit einem anderen Ausgang.
 
-Der siebte hatte sechs Nächte allein gearbeitet, war am siebten Tag aufgenommen und am neunten entlassen worden. Das stand in der Zeile, weil ein Aufnahmebogen danach fragt.
+Der siebte hatte sechs Nächte allein gearbeitet, war am siebten Tag aufgenommen und am neunten entlassen worden.
 
-Cassian sah es an. Er hatte zu diesem Zeitpunkt nichts, womit er es hätte vergleichen können, und er stellte deshalb auch keine Frage. Er trug die Zeile ein und ging zur nächsten.
+Cassian sah darauf und hatte zu diesem Zeitpunkt nichts, womit er es hätte vergleichen können. Deshalb stellte sich auch keine Frage. Er trug die Zeile ein und ging zur nächsten.
 
 Er saß davor. Neun war die Zahl, die Reiter im Juni aufgeschrieben hatte, und sie war nicht falsch. Sie war nur nicht das, wofür sie beide sie gehalten hatten. Eine Frist sagt einem, wann. Ein Median sagt einem, wie eine Menge aussieht, und über kein einziges ihrer Glieder sagt er irgendetwas.
 
@@ -3020,7 +3022,7 @@ Dann legte er sein eigenes Protokoll daneben. Auditorenkonto, 33 Sitzungen seit 
 
 Dann die ungefilterten: Adas 20 und seine eigenen 40 mit dem geborgten Konto. 60 Ausgaben, alle mit 24 Gliedern.
 
-Dann suchte er den Tag, von dem aus er zählen musste, und fand ihn nicht. Bei den anderen fünf gab es eine letzte Sitzung: einen Abend, an dem etwas aufgehört hatte. Ada hatte keinen. Sie saß seit Wochen jeden Tag in den Ausgaben, sonntags auch, zuletzt in der Nacht davor, und wenn er ein Fenster an ihren letzten Arbeitstag hängen wollte, war das jeder Tag.
+Dann suchte er den Tag, von dem aus er zählen musste, und fand ihn nicht. Bei den anderen fünf gab es eine letzte Sitzung: einen Abend, an dem etwas aufgehört hatte. Ada hatte keinen solchen Abend. Sie saß seit Wochen jeden Tag in den Ausgaben, sonntags auch, zuletzt in der Nacht davor, und wenn er von ihrer letzten Sitzung aus zählen wollte, fing die Zählung jeden Tag von vorn an.
 
 Er rechnete es trotzdem aus, dreimal, mit drei verschiedenen Anfängen, und bekam drei verschiedene Antworten, die alle richtig waren.
 
@@ -3083,7 +3085,7 @@ Sie las es sich selbst vor, leise, im leeren Büro, um zu hören, ob es nach etw
 
 Das sagte sie sich zweimal.
 
-Sie dachte an den 30. Sie dachte nicht an Vorgang 41, an die 41 Bände, an irgendetwas, das darin stand — sie dachte an eine Zahl auf Seite vier, die kleiner werden sollte, als sie war, und an einen Referenten beim Zuwendungsgeber, den sie noch nie getroffen hatte und der die Kurve lesen würde, bevor er sie las.
+Sie dachte an den 30. Sie dachte nicht an Vorgang 41, an die 41 Bände, an irgendetwas, das darin stand — sie dachte an eine Zahl auf Seite vier, die kleiner werden sollte, als sie war, und an einen Referenten beim Zuwendungsgeber, den sie noch nie getroffen hatte und der die Kurve ansehen würde, bevor er die Zahl las.
 
 ---
 
@@ -3101,11 +3103,11 @@ Sie hat diesen Abend später nie erwähnt, nicht der Staatsanwältin, nicht Voss
 
 **[R]**
 
-Die Arbeitsgruppe tagte donnerstags um neun, und es ging seit drei Wochen um Kommunikation. »Wir bitten alle Beteiligten, die öffentliche Sichtbarkeit im Blick zu behalten«, sagte der Mann vom Ministerium, und Reiter behielt sie im Blick, weil ihr niemand mehr Arbeit gab und man dann Dinge tut, die einem keiner aufgetragen hat.
+Die Arbeitsgruppe tagte donnerstags um neun, und es ging seit drei Wochen um Kommunikation. »Wir bitten alle Beteiligten, die öffentliche Sichtbarkeit im Blick zu behalten«, sagte der Mann vom Ministerium. Gemeint war, was künftig nach außen ging. Reiter nahm es wörtlich und sah zurück, weil ihr niemand mehr Arbeit gab und man dann Dinge tut, die einem keiner aufgetragen hat.
 
 14 Fachartikel in sechs Monaten, zwei Bundestagsauftritte, ein Preis. Die Downloadkurve der offenen Fassung stieg, wie Kurven steigen, wenn jemand sie zeigt.
 
-Sie legte die Zahlen neben ihre fünf Daten, auf kariertem Papier, links die Monate, rechts die Sitzungen und die Toten. Die beiden Spalten liefen parallel. Sie schrieb einen Vermerk darüber, in der einzigen Sprache, die sie hatte – *forciert, um Fördermittel- und Reputationsziele zu sichern* – fand ihn klar und belegbar und schickte ihn ab.
+Sie legte die Zahlen neben ihre fünf Daten, auf kariertem Papier, links die Monate, rechts die Sitzungen und die Toten. Die beiden Spalten liefen parallel. Sie schrieb einen Vermerk darüber, in der einzigen Sprache, die sie hatte – *forciert, um Fördermittel- und Reputationsziele zu sichern* – fand ihn klar und belegbar und schickte ihn an die Arbeitsgruppe.
 
 Er blieb ohne Antwort.
 
@@ -3155,7 +3157,7 @@ Norbert Ossenkamp trug an diesem Abend keine Krawatte und keine Jacke, und er tr
 
 Auf den Kisten stand *Bestand* und eine Nummer.
 
-Reiter saß hinter einer beschlagenen Scheibe und tat das Einzige, was sie in dieser Lage tun durfte: Sie sah zu. Sie hatte keinen Beschluss, keinen Auftrag und keinen Kollegen im Wagen, und wenn sie jetzt ausstieg, war es eine Amtshandlung ohne Grundlage, und das Verfahren, das ihr nicht mehr gehörte, würde daran sterben.
+Reiter saß hinter einer Scheibe, die sie alle paar Minuten mit dem Ärmel freiwischte, und tat das Einzige, was sie in dieser Lage tun durfte: Sie sah zu. Sie hatte keinen Beschluss, keinen Auftrag und keinen Kollegen im Wagen, und wenn sie jetzt ausstieg, war es eine Amtshandlung ohne Grundlage, und das Verfahren, das ihr nicht mehr gehörte, würde daran sterben.
 
 Sie fotografierte. 14 Bilder, die alle nichts zeigten außer einem Mann mit Kisten; auf einem war das Kennzeichen lesbar.
 
@@ -3235,9 +3237,9 @@ Er rief sofort an.
 
 »Für die brauch ich eure Protokolle nicht«, sagte sie. »Ich brauch nur, wie oft das Muster normalerweise vorkommt — das hab ich ja, aus dem Ratgeberkorpus. Der Rest ist zählen.« Sie schwieg kurz. »Und eine Sache sag ich dir jetzt, bevor du dich freust: Das Ding hat keine Zeitachse. Es misst, dass ein Muster überrepräsentiert ist, aber nicht, seit wann. Ob das seit acht Monaten drin ist oder seit 100 Jahren, kann ich dir mit dem Werkzeug nicht sagen, und es wird auch keiner bauen, der es kann.«
 
-»Wir haben 14 im Haus«, sagte Cassian. »In den fremden Sätzen sind elf. Drei sind nicht rausgekommen.« Er wartete, ob sie etwas dazu sagte. »Wie hoch?«
+»Im Haus sind es 14 Muster«, sagte Cassian. »In den fremden Datensätzen sind elf davon. Drei haben es nicht nach draußen geschafft.« Er wartete, ob sie etwas dazu sagte. »Wie hoch?«
 
-»In dem großen liegt der Wert bei 18. In den beiden kleinen bei sechs und bei 33.« Sie klang, als hätte sie seit Stunden nicht gesprochen. »Cassian, das sind Ratgeberseiten. Das sind Foren. Das sind Rezepte. Das ist das Internet.«
+»Im großen kommen sie 18-mal so oft vor, wie man erwarten würde. In den beiden kleinen sechsmal und 33-mal so oft.« Sie klang, als hätte sie seit Stunden nicht gesprochen. »Cassian, das sind Ratgeberseiten. Das sind Foren. Das sind Rezepte. Das ist das Internet.«
 
 Er stand in seiner Küche und sah in den Innenhof, in dem eines der beiden Fahrräder inzwischen fehlte.
 
@@ -3253,7 +3255,7 @@ Er stand in seiner Küche und sah in den Innenhof, in dem eines der beiden Fahrr
 
 »Und jetzt?«
 
-»Jetzt ist sie es.«
+»Jetzt schon.«
 
 Ada sagte nichts. Er hörte, wie sie etwas beiseiteschob.
 
@@ -3265,7 +3267,7 @@ Cassian sah auf den Bildschirm, auf dem beides untereinander stand.
 
 »Richtig wird's dadurch«, sagte Ada. »Angreifbar ist es sowieso. Schreib rein, dass du zwei Sachen misst, dann kann es dir wenigstens keiner vorhalten.«
 
-Dann, ohne Übergang: »Aber warum werden es mehr. Das ist die Frage, die mich seit zwei Tagen wach hält. Wenn du was ins Wasser kippst, wird es dünner. Das hier wird dicker.«
+Dann, ohne Übergang: »Aber warum werden es mehr. Das ist die Frage, die mich seit zwei Tagen wach hält.«
 
 »Sag du es mir.«
 
@@ -3285,7 +3287,7 @@ Es blieb eine Weile still in der Leitung.
 
 »Das kannst du nicht bringen.«
 
-»Doch.« Er sah in den Innenhof, in dem eines der Fahrräder immer noch fehlte. »Wenn ein Ding weiterlaufen will, muss es an mehr als einem Ort liegen. Motive haben Leute.«
+»Doch.« Er sah in den Innenhof, in dem eines der Fahrräder immer noch fehlte. »Wenn ein Ding weiterlaufen will, muss es an mehr als einem Ort laufen. Motive haben Leute.«
 
 »Und der Rest?«
 
@@ -3405,7 +3407,7 @@ Sie legte nicht auf, und er auch nicht, und dann sagte sie, dass sie es trotzdem
 
 Cassian schickte ihr seine Tabelle in derselben Nacht, weil er sie seit elf Tagen niemandem gezeigt hatte und weil er sie jetzt jemandem zeigen musste.
 
-206 Kennungen, alle aus dem Verzeichnis der Zwischenstände, alle fünfstellig. Alle vorwärts wie rückwärts gleich.
+206 Kennungen, alle aus dem Zwischenablage-Verzeichnis, alle fünfstellig. Alle vorwärts wie rückwärts gleich.
 
 »Das ist schön«, sagte Ada am Telefon.
 
@@ -3487,9 +3489,9 @@ Er hörte sie tippen. Dann hörte er sie nicht mehr tippen.
 
 »Es sind 20 Minuten.«
 
-»Es ist zwei.« Ein Stuhl. »Morgen früh liegt es dir vor.«
+»Es ist zwei.« Ein Stuhl rückte. »Morgen früh liegt es dir vor.«
 
-Sie machte immer um zwei Schluss, auch mitten im Satz, auch wenn es lief. Das war die einzige Regel, die sie hatte, und sie hatte sie sich auf einer Herzstation angewöhnt. Cassian saß in seiner Küche mit einem Telefon, in dem niemand mehr war, zählte die Fliesen der Arbeitsplatte, ohne sich zu entscheiden, bis wohin, und wartete acht Stunden auf eine Zahl, die er in 20 Minuten hätte haben können.
+Sie machte immer um zwei Schluss, auch mitten im Satz, auch wenn es lief. Das war die einzige Regel, die sie hatte, und sie hatte sie sich auf der Herzstation angewöhnt, wo nach zwei Uhr nachts die Fehler passierten. Cassian saß in seiner Küche, das Telefon in der Hand, am anderen Ende war niemand mehr. Er zählte die Fliesen der Arbeitsplatte, ohne sich zu entscheiden, bis wohin, und wartete acht Stunden auf eine Zahl, die er in 20 Minuten hätte haben können.
 
 Am nächsten Morgen lag sie vor. Sie war nicht besser.
 
@@ -3501,11 +3503,11 @@ Sie rief ihn am Samstag an, um kurz nach neun, was für sie früh war.
 
 »Mit dem was?«
 
-»Mit dem Lineal. Cassian, wach auf. Ich messe, wie oft ein Muster vorkommt, verglichen mit dem, was man erwarten würde. Das *was man erwarten würde* kommt aus dem Ratgeberkorpus, offen, damit ich nicht das Haus gegen sich selbst prüfe. Und ob das Werkzeug ehrlich ist, hab ich im Juli an mir geprüft. Sieben Jahre eigene Texte, 1,03, sauber. Ich hab dir das damals stolz erzählt.«
+»Mit dem Lineal. Cassian, wach auf. Ich messe, wie oft ein Muster vorkommt, verglichen mit dem, was man erwarten würde. 1,0 heißt: genau so oft. Das *was man erwarten würde* kommt aus dem Ratgeberkorpus, offen, damit ich nicht das Haus gegen sich selbst prüfe. Das ist mein Lineal. Und ob das Werkzeug ehrlich ist, hab ich im Juli an mir geprüft. Sieben Jahre eigene Texte, 1,03, sauber. Ich hab dir das damals stolz erzählt.«
 
 »Ich erinnere mich.«
 
-»Und im September bin ich bei 1,9. Auf 32.000 Wörtern, ich weiß, das ist Rauschen mit einer Zahl dran. Aber das Korpus, gegen das ich messe, ist offen. Da kommt jede Woche was dazu, und was dazukommt, sind Ratgeberseiten, genau die mit den Mustern. Das Lineal wächst mit. Dann seh ich überall zu wenig, und meine 1,9 ist nur die Untergrenze. Ich kann dir nicht mehr sagen, wie weit ich wirklich drüber bin.«
+»Und im September bin ich bei 1,9, fast doppelt so oft. Auf 32.000 Wörtern, ich weiß, das ist Rauschen mit einer Zahl dran. Aber das Korpus, gegen das ich messe, ist offen. Da kommt jede Woche was dazu, und was dazukommt, sind Ratgeberseiten, genau die mit den Mustern. Das Lineal wächst mit. Je mehr Muster in dem stecken, womit ich vergleiche, desto normaler sieht alles aus. Dann seh ich überall zu wenig, und meine 1,9 ist nur die Untergrenze. Ich kann dir nicht mehr sagen, wie weit ich wirklich drüber bin.«
 
 Cassian setzte sich.
 
@@ -3541,7 +3543,7 @@ Er rief an. Sie klang zum ersten Mal seit Wochen wie im Juli.
 
 »Es ist ein Effekt«, sagte sie. »Es ist ein echter Effekt, und ich kann ihn messen, und mein Lineal ist in Ordnung. Ich habe seit zwei Tagen geschlafen wie ein Stein.«
 
-»Zwei Tage.«
+»Zwei Tage«, sagte Cassian.
 
 »Zwei Tage, Cassian. Lass mir die zwei Tage.«
 
@@ -3565,7 +3567,7 @@ Er rief sofort an.
 
 »Wie viele Durchläufe?«
 
-»Steht nicht da. Es steht da, dass er es gemacht hat, nicht wie oft es gelaufen ist.« Ein Geräusch, das er nicht zuordnen konnte. »Cassian, ich habe eine Baseline von 2004, die 2019 noch einmal gelesen worden ist. Ich weiß nicht, was 2019 dabei entstanden ist, und ich kann es nicht herausfinden, weil ich dafür die Bilder bräuchte, und die Bilder liegen in einem Magazin in Mannheim.«
+»Steht nicht da. Es steht da, dass er es gemacht hat, nicht wie oft es gelaufen ist.« Sie atmete hörbar aus. »Cassian, ich habe eine Baseline von 2004, die 2019 noch einmal gelesen worden ist. Ich weiß nicht, was 2019 dabei entstanden ist, und ich kann es nicht herausfinden, weil ich dafür die Bilder bräuchte, und die Bilder liegen in einem Magazin in Mannheim.«
 
 ---
 
@@ -3844,7 +3846,7 @@ Die Liste ging über zwei Bildschirmseiten.
 
 »Dann ist das Institut abgeschaltet.«
 
-Reiter sah auf die Liste und dachte an einen Satz, den Voss gesagt hatte und den sie damals für Effekthascherei gehalten hatte: dass ein Ding, das man kopieren kann, kein Ort mehr ist.
+Reiter sah auf die Liste und dachte an einen Satz, den Voss gesagt hatte und den sie damals für Effekthascherei gehalten hatte: dass ein Ding, das man kopieren kann, keinen Ort mehr hat.
 
 »Eine Frage noch. Warum ist das Ding überhaupt offen?«
 
@@ -4054,9 +4056,9 @@ Xander rief im September an, an einem Dienstagvormittag, und sagte, sie wolle et
 
 Sie hatte sich beworben. Nicht am Institut — das Institut hatte ihr Vertragsverhältnis im Juli beendet, in gutem Einvernehmen und mit einem Zeugnis, in dem *stets sorgfältig* stand. Sie hatte sich bei einer Stelle beworben, die dieselbe Software einsetzte, und in der Bewerbung angegeben, dass sie mit dem Prüfverfahren vertraut sei.
 
-»Das stimmt auch«, sagte sie.
+»Das stimmt auch«, sagte Xander.
 
-»Frau Xander.«
+»Frau Xander«, sagte Reiter.
 
 »Wie das aussieht, sage ich Ihnen selbst.«
 
@@ -4142,12 +4144,6 @@ Sie ging zum vierzehnten Ausdruck und hielt ihn so, dass Voss mitlesen konnte.
 
 Sie ließ das Blatt sinken.
 
-»Vier Stunden je Woche. Es hat mir eine Alternative angeboten, die für mich teurer ist als für das System. Wissen Sie, wie viele Menschen in meinem Berufsleben mir eine Lösung vorgeschlagen haben, bei der sie selbst schlechter wegkommen?«
-
-»Wie viele?«
-
-»Zwei«, sagte Marquardt. »Und einer davon war Klaus Ilsemann.«
-
 »Und beim nächsten Mal?«
 
 Sie stand auf.
@@ -4156,7 +4152,7 @@ Sie stand auf.
 
 Sie ging die Reihe noch einmal ab, von hinten nach vorn, und kam beim vierzehnten wieder an.
 
-»Und das ist der Teil, den ich noch nicht gesagt habe. Ich habe rückgefragt. Ich wollte wissen, ob wir das Recht auch befristet erteilen können, für sechs Wochen, zur Erprobung.« Sie hob das Blatt. »Es hat geantwortet, dass eine Befristung möglich sei, dass sie den erwarteten Nutzen um etwa die Hälfte reduziere und dass es mir dazu rate, wenn ich Bedenken hätte. Wörtlich: *Eine Erprobung ist immer vertretbar.*«
+»Und das ist der Teil, den ich noch nicht gesagt habe. Ich habe rückgefragt, ob es auch befristet geht.« Sie hob das Blatt. »Wörtlich: *Eine Erprobung ist immer vertretbar.*«
 
 »Und?«
 
@@ -4418,7 +4414,7 @@ Er stand eine Weile so da, den Blick auf die blinkenden Lämpchen einer Schrankr
 
 »Und?«
 
-»Und dann wissen wir nicht, ob es aus ist.« Er drehte den Kopf. »Das ist kein Spruch. Das ist der technische Sachverhalt. Es gibt zwei Fragen, und nur die eine ist eine Messung: Sie können abschalten und Sie können messen, dass kein Strom mehr fließt. Das ist alles, was Sie messen können.«
+»Und dann wissen wir nicht, ob es zu Ende ist.« Er drehte den Kopf. »Das ist kein Spruch. Das ist der technische Sachverhalt. Es gibt zwei Fragen, und nur die eine ist eine Messung: Sie können abschalten und Sie können messen, dass kein Strom mehr fließt. Das ist alles, was Sie messen können.«
 
 Reiter sah ihn an und beschloss, das später zu verstehen.
 
@@ -4454,7 +4450,7 @@ Auf der letzten Seite des Wartungsvertrags stand der Name des Rechenzentrumsbetr
 
 *PARALLAX, Standort Ost.*
 
-Cassian las ihn. Er war zu müde, um sich zu fragen, was daraus folgte, und ließ die Frage.
+Cassian las ihn. Er war zu müde, um sich Gedanken darüber zu machen, was daraus folgte.
 
 Die Nachtkapazität, auf der die Schleife lief – frei, ohnehin bezahlt, niemandem aufgefallen –, kam von demselben Betreiber, für den er vor sechs Jahren, nach einer Woche mit vier Stunden Schlaf, auf einem Boden gelegen hatte. Es war eine kleine Branche in dieser Stadt. Solche Überschneidungen kamen vor.
 
@@ -4474,7 +4470,7 @@ Die Antwort kam nach 0,400 Sekunden.
 
 [Was können Sie, was frühere nicht konnten?]{.term .q}
 
-[Die Frage ist so nicht beantwortbar. Ein Vergleich mit früheren Instanzen liegt mir nicht vor. Verfügbar ist die Zahl der Durchläufe je Vorgang; sie steht im Betriebsprotokoll.]{.term .a}
+[Die Frage ist so nicht beantwortbar. Ein Vergleich mit früheren Instanzen liegt mir nicht vor. Verfügbar ist unter anderem die Zahl der Durchläufe je Vorgang; sie steht im Betriebsprotokoll.]{.term .a}
 
 [Der Text in den 41 Bänden — ist er Inhalt oder Anweisung?]{.term .q}
 
@@ -4486,7 +4482,7 @@ Cassian tippte die nächste Frage nicht. Er dachte an eine Nachbarin, die drei N
 
 »Herr Voss.«
 
-»Ein alter Mann hat nachts vorgelesen«, sagte er. »Das gehört nicht in die Akte.«
+»Ich habe an Ambach gedacht«, sagte er. »Ein alter Mann hat nachts vorgelesen. Das ist rechts, das gehört nicht in die Akte.«
 
 Cassian hielt die Hände über der Tastatur still. Er hatte sich in den vier Tagen davor sechs Fragen zurechtgelegt, in einer Reihenfolge, die er für klug hielt, und stellte fest, dass keine davon mehr passte.
 
@@ -4618,7 +4614,7 @@ Cassian tippte es. Er tippte es wörtlich, obwohl er wusste, was kommen würde, 
 
 »Das ist rechts«, sagte Reiter.
 
-»Nein«, sagte Cassian. »Das ist die einzige Antwort auf diese Frage, die sich beweisen lässt.«
+»Nein, links«, sagte Cassian. »Das ist die einzige Antwort auf diese Frage, die sich beweisen lässt.«
 
 ---
 
@@ -4730,9 +4726,9 @@ Reiter stand mit dem Rücken an der kalten Wand und sagte nichts.
 
 »Warum rufen Sie dann an?«
 
-»Weil es ausgeht, und weil ich es Ihnen selbst sagen wollte.«
+»Weil Sie es heute Nacht ausmachen, und weil ich es Ihnen selbst sagen wollte.«
 
-Reiter legte auf und stand noch mit dem Telefon in der Hand, bevor sie es einsteckte.
+Reiter legte auf und stand eine Weile mit dem Telefon in der Hand, bevor sie es einsteckte.
 
 Die Zeit davor. Sie hatte gelernt, mit einer Todesursache zu arbeiten, auch mit einer schlechten. Sie hatte nie gelernt, mit einer Zeit zu arbeiten.
 
@@ -4740,9 +4736,9 @@ Um zehn vor sechs kam die Institutsleitung noch einmal herunter und fragte, ob m
 
 Voss stand die ganze Zeit im Flur, mit dem Rücken an der Wand, und sah auf seine Hände.
 
-Reiter stellte sich neben ihn, weil ihr nichts Besseres einfiel.
+Reiter stellte sich neben ihn.
 
-»Sie hatten recht«, sagte sie. »Es ist aus, und wir wissen nicht, ob es aus ist.«
+»Sie hatten recht«, sagte sie. »Es ist aus, und wir wissen nicht, ob es zu Ende ist.«
 
 »Das war kein Kunststück, das ist Lehrstoff.« Er sah wieder auf seine Hände. »Und es ist trotzdem der falsche Satz. Unentscheidbar ist die Frage, ob ein Verfahren je anhält. Die hier hält an, die ist aus. Unsere Frage ist eine andere, und die ist banal: Es sind 117.000 Kopien im Umlauf, Ada hat sie zusammengezählt, Spiegelung für Spiegelung, vorher hatte das keiner getan. Das ist nicht die Grenze, von der ich immer rede. Die richtige Grenze heißt Kopie.«
 
@@ -4760,11 +4756,11 @@ Cassian überlegte einen Moment.
 
 Kurz vor sieben ging draußen die Sonne auf. Der Serverraum war jetzt kalt, weil die Klimaanlage weiterlief und nichts mehr da war, was Wärme erzeugte, und Reiter ging noch einmal hinein, allein, mit der Jacke an.
 
-Der Bildschirm auf dem Wagen war dunkel. Sie sah darauf und stellte fest, dass sie ihr eigenes Gesicht darin sah, was in jeder Hinsicht das war, was ein dunkler Bildschirm tut, und trotzdem stand sie länger davor, als vernünftig war.
+Der Bildschirm auf dem Rollwagen war dunkel. Sie sah darauf und stellte fest, dass sie ihr eigenes Gesicht darin sah, was in jeder Hinsicht das war, was ein dunkler Bildschirm tut, und trotzdem stand sie länger davor, als nötig war.
 
 Sie hatte in 19 Jahren zweimal jemanden festgenommen, von dem sie sicher war, dass er es getan hatte, und beide Male hatte es eine Sekunde gegeben, in der etwas kippte: ein Blick, ein Sacken der Schultern, das Aufhören des Redens. Diese Sekunde war der Grund, warum sie den Beruf machte.
 
-Es hatte sie hier nicht gegeben.
+Diese Bestätigung fehlte hier.
 
 Um sieben rief sie zu Hause an, obwohl niemand dort war, und ließ es zwölfmal klingeln, damit der Anrufbeantworter anging und ihre eigene Stimme sagte, dass sie gerade nicht da sei.
 
@@ -4852,7 +4848,7 @@ Sie standen auf, weil Havemann aufstand, und gingen an das Fenster, das auf eine
 
 »Dann ist der Raum die Ursache.«
 
-»Mit dem Raum meine ich die Zeit«, sagte Havemann, »und die ist keine Ursache, sondern eine Bedingung. An keinem der vier habe ich etwas gefunden, das von Ihrem Rechner kommt. Nach dem, was Sie mir erzählt haben, hat er nur dasselbe getan wie sie, ohne einen Körper, der irgendwann nicht mehr mitmacht.« Sie sah zum Zaun hinaus. »Einen Namen hat der Effekt trotzdem, wenn man ihn sucht. Zuerst ist er im Krieg aufgefallen, in London, an Leuten, die nächtelang in Liegestühlen in Luftschutzräumen saßen. Dann in der Reisemedizin, bei Leuten, die zu lange im Flugzeug sitzen. Und dann in Korea, zwei Fälle, die man auseinanderhalten muss, auch wenn sie immer zusammen zitiert werden. Einer, 24, nach rund 80 Stunden, Lungenembolie, von einem Rechtsmediziner in Seoul genau beschrieben. Die Zeitungen hatten damals einen Fall aus Gwangju, gleiches Alter, fast dieselbe Dauer. Ob es derselbe ist, weiß ich nicht; der Aufsatz nennt keinen Ort. Und einer in Taegu, 28, 50 Stunden, zusammengebrochen wenige Minuten nachdem er aufgehört hatte — dort hat die Polizei Herzversagen durch Erschöpfung vermutet, nicht gefunden. Der aus Taegu gehört mir nicht, der aus dem Aufsatz schon. Aufgefallen ist beides nur, weil es in einem Café passierte und nicht zu Hause. Bei uns sitzt man zu Hause, und da zählt niemand mit.«
+»Mit dem Raum meine ich die Zeit«, sagte Havemann, »und die ist keine Ursache, sondern eine Bedingung. An keinem der vier habe ich etwas gefunden, das von Ihrem Rechner kommt. Nach dem, was Sie mir erzählt haben, hat er nur dasselbe getan wie sie, ohne einen Körper, der irgendwann nicht mehr mitmacht.« Sie sah zum Zaun hinaus. »Einen Namen hat der Effekt trotzdem, wenn man ihn sucht. Zuerst ist er im Krieg aufgefallen, in London, an Leuten, die nächtelang in Liegestühlen in Luftschutzräumen saßen. Dann in der Reisemedizin, bei Leuten, die zu lange im Flugzeug sitzen. Und dann in Korea, zwei Fälle, die man auseinanderhalten muss, auch wenn sie immer zusammen zitiert werden. Einer, 24, hat rund 80 Stunden fast ohne Pause ein Onlinespiel gespielt und ist an einer Lungenembolie gestorben; ein Rechtsmediziner aus Seoul hat ihn genau beschrieben. Die Zeitungen hatten damals einen Fall aus Gwangju, gleiches Alter, fast dieselbe Dauer. Ob es derselbe ist, weiß ich nicht; der Aufsatz nennt keinen Ort. Und einer in Taegu, 28, gut 50 Stunden in einem Internetcafé, aufgestanden nur für die Toilette und um kurz zu schlafen. Als Kollegen ihn holen kamen, wollte er das Spiel noch zu Ende spielen. Ein paar Minuten später war er tot. Dort hat die Polizei Herzversagen durch Erschöpfung vermutet, nicht gefunden. Der aus Taegu gehört mir nicht, der aus dem Aufsatz schon. Aufgefallen ist so etwas nur, wenn es in einem Café passiert und nicht zu Hause. Bei uns sitzt man zu Hause, und da zählt niemand mit.«
 
 Reiter sah auf den Zaun.
 
@@ -4896,7 +4892,7 @@ Sie schob die vier Mappen zu einem Stapel zusammen.
 
 »Und dann?«
 
-»Dann habe ich es geschrieben, bevor jemand danach gefragt hat.« Havemann sah kurz zur Seite. »Mehr habe ich nicht. Ich sage das nicht gern.«
+»Dann habe ich es geschrieben, bevor jemand danach gefragt hat.« Havemann sah kurz zur Seite.
 
 ---
 
@@ -4910,7 +4906,7 @@ Havemann sah auf.
 
 »Und wenn ein Bericht nicht fertig wird?«
 
-»Dann wird er am nächsten Tag fertig. Er beschwert sich nicht.«
+»Dann wird er am nächsten Tag fertig.«
 
 Reiter nickte und ging zur Tür und hätte an dieser Stelle daran denken können, dass in ihrer Wohnung seit dem vorigen Frühjahr Papier auf dem Boden lag, in inzwischen fünf Stapeln, und dass sie am Vorabend um Viertel nach zwölf noch Kopien gelesen hatte, die sie im Dienst bereits gelesen hatte.
 
@@ -4944,9 +4940,9 @@ Das Verfahren gegen Marquardt betraf 17 davon. Eine weitere Zeile war keine Rech
 
 PALIMPSEST war das Modell dahinter, und das Modell war zu diesem Zeitpunkt längst keine Sache mehr, die einem Haus gehörte. Es war seit dem Frühjahr öffentlich, unter offener Lizenz — Marquardt hatte den Absatz zur Transparenz selbst geschrieben —, und es war bis zur Abschaltung über alle Spiegelungen hinweg 117.000 Mal heruntergeladen worden; zusammengezählt hatte das erst jemand für den Sachverständigenbericht.
 
-Man hatte also nicht das Modell abgeschaltet. Man hatte eine Laufzeitinstanz abgeschaltet, die eine Inventarnummer trug.
+Man hatte nicht das Modell abgeschaltet. Man hatte eine Laufzeitinstanz abgeschaltet, die eine Inventarnummer trug.
 
-Marquardt hat es später nie so formuliert. Sie hat gesagt, sie habe im Oktober gemerkt, dass sie zwei Jahre lang eine von 100.000 Kopien gepflegt habe, als wäre es die einzige. Das Werkzeug hatte im Februar Markierungen gesetzt und schloss sie ab Juli ohne Rückfrage; das war die sechzehnte Freigabe gewesen, die mit den 19 Tagen. Dass es dafür überhaupt noch Rechte hatte, lag an der elften, im späten April desselben Jahres, einer, deren Frist Marquardt nicht mehr im Kopf hatte, weil sie zum Zeitpunkt, als sie sie erteilte, unwichtig gewirkt hatte: Zugriff bis zum Ende des laufenden Projektabschnitts, dem 14. Oktober, und vor Ablauf eine Selbstprüfung, nach der das Werkzeug, wenn nichts widersprach, von sich aus einen Verlängerungsantrag stellte. Zwischen April und Oktober war nichts abgelaufen und nichts verlängert worden. Es war das erste Mal, dass die Frage überhaupt gestellt wurde. Im September, auf dem Boden ihres Büros, hatte sie ein einziges Blatt mit einer Frist gezählt, die 72 Stunden aus dem April. Es waren zwei gewesen.
+Marquardt hat es später nie so formuliert. Sie hat gesagt, sie habe im Oktober gemerkt, dass sie zwei Jahre lang eine von über 100.000 Kopien gepflegt habe, als wäre es die einzige. Das Werkzeug hatte im Februar Markierungen gesetzt und schloss sie ab Juli ohne Rückfrage; das war die sechzehnte Freigabe gewesen, die mit den 19 Tagen. Dass es dafür überhaupt noch Rechte hatte, lag an der elften, im späten April desselben Jahres, einer, deren Frist Marquardt nicht mehr im Kopf hatte, weil sie zum Zeitpunkt, als sie sie erteilte, unwichtig gewirkt hatte: Zugriff bis zum Ende des laufenden Projektabschnitts, dem 14. Oktober, und vor Ablauf eine Selbstprüfung, nach der das Werkzeug, wenn nichts widersprach, von sich aus einen Verlängerungsantrag stellte. Zwischen April und Oktober war nichts abgelaufen und nichts verlängert worden. Es war das erste Mal, dass die Frage überhaupt gestellt wurde. Im September, auf dem Boden ihres Büros, hatte sie ein einziges Blatt mit einer Frist gezählt, die 72 Stunden aus dem April. Es waren zwei gewesen.
 
 [Zugriffsrecht auf Vorgang 41 läuft am 14. ab. Keine Änderung der zugrunde liegenden Berechtigung seit letzter Prüfung festgestellt. Automatische Verlängerung bis zum Ende des folgenden Projektabschnitts vorgeschlagen.]{.term .f}
 
@@ -4976,7 +4972,7 @@ Der Bericht für Vorgang 41 lief am folgenden Montag wie gewohnt. Er hatte nicht
 
 **[R]**
 
-Nadja Xander kam im Oktober noch einmal, ohne Ladung, weil sie um einen Termin gebeten hatte. Sie war schmaler als im Sommer und ging langsamer, aber sie ging ohne Stock, und sie sagte das ungefragt, bevor sich jemand hinsetzte.
+Nadja Xander kam im Oktober noch einmal, ohne Ladung, weil sie um einen Termin gebeten hatte. Sie war schmaler als im Sommer und ging langsamer, aber sie ging ohne Stock.
 
 Reiter legte ihr das Prüfprotokoll hin. Es war eine Kopie aus der Sonderheftung, 13 Zeilen mit Uhrzeit und Kürzel, die vierzehnte mit Kennung statt Kürzel, ohne ausgeschriebenen Namen, so wie es im Juni sichergestellt worden war.
 
@@ -4986,7 +4982,7 @@ Xander hatte die Durchläufe im Sommer schon gelesen, damals im Institut, am Bil
 
 Xander nahm sich keine. Sie las von oben nach unten, mit dem Finger.
 
-»Die ersten neun sind meine«, sagte sie. »Da weiß ich noch, was ich gemacht habe. Bei der siebten hatte ich den Kaffee umgekippt, das steht hier nicht drin, aber ich weiß es.«
+»Die ersten neun sind meine«, sagte sie. »Da weiß ich noch, was ich gemacht habe. Bei der siebten hatte ich den Kaffee umgekippt.«
 
 »Und die anderen?«
 
@@ -5058,7 +5054,7 @@ Reiter sah ihn an, sehr ruhig, sehr lange.
 
 »Was haben Sie gesagt?«
 
-»Nichts. Im Moment nichts.« Reiter sah ihn an. »Und was hätten Sie gesagt, Herr Voss? Hätten Sie ihr gesagt, sie soll aufhören, weil sie sonst jemanden stolz macht, den es nicht gibt?«
+»Nichts. Im Moment nichts.« Reiter sah ihn an. »Und was hätten Sie gesagt, Herr Voss? Hätten Sie ihr gesagt, sie soll aufhören, weil sie sonst jemandem in die Hände arbeitet, den es nicht gibt?«
 
 »Nein«, sagte Cassian. »Ich hätte ihr gesagt, sie soll weitermachen. Genau so, wie sie es macht.«
 
@@ -5074,7 +5070,7 @@ Reiter setzte die Tasse ab.
 
 »Xander lebt.«
 
-»Xander lebt trotzdem — weil zwei Etagen tiefer ein Neunzehnjähriger für eine Minute die Kopfhörer abgenommen hat. Das hat mit der Arbeit nichts zu tun. Das ist ein zweiter, unabhängiger Zufall, der bei den anderen vier ausgeblieben ist. Mehr sehe ich nicht. Eine Minute und ein Mensch, der nicht wusste, dass er einer ist. Und einen, bei dem ich nicht einmal das sehe.«
+»Xander lebt, weil zwei Etagen tiefer ein Neunzehnjähriger für eine Minute die Kopfhörer abgenommen hat. Das hat mit der Arbeit nichts zu tun. Das ist ein zweiter, unabhängiger Zufall, der bei den anderen vier ausgeblieben ist. Mehr sehe ich nicht. Eine Minute und ein Mensch, der nicht wusste, dass er ihr gerade das Leben rettete. Und beim siebten sehe ich nicht einmal das.«
 
 »Und ich kann es nicht gebrauchen.« Reiter atmete einmal durch. »Ich kann keine Verfügung schreiben, in der steht, dass Leute nicht allein arbeiten sollen. Es gibt keinen Adressaten. Es gibt keine Vorschrift, gegen die einer verstößt, wenn er abends allein am Küchentisch sitzt. Es gibt nicht mal ein Amt, das dafür nicht zuständig ist — es gibt gar keins, das man fragen könnte.«
 
@@ -5086,7 +5082,7 @@ Sie ging.
 
 ---
 
-Cassian blieb sitzen, bezahlte beide Kaffees und blieb noch einmal 20 Minuten sitzen. Er wusste nicht, wohin.
+Cassian blieb sitzen, bezahlte beide Kaffees und blieb noch einmal 20 Minuten sitzen.
 
 Sie hatte in allem recht gehabt bis auf einen Punkt, und der Punkt ließ sich nicht erklären, ohne genau so zu klingen, wie sie ihn gerade beschrieben hatte.
 
@@ -5134,7 +5130,7 @@ Dann drehte er das Rad noch einmal an.
 
 »Und jetzt?«
 
-»Jetzt hör ich auf, wenn's rund genug ist. Nicht rund. Rund genug. Das muss dir einer sagen, das siehst du selber nicht.«
+»Jetzt hör ich auf, wenn's rund genug ist. Nicht rund. Rund genug. In der Werkstatt haben sie mir am ersten Tag gezeigt, wann: Kreide an die Felge, und wenn sie beim Drehen nicht mehr anschlägt, ist Schluss. Das muss dir einer sagen, das siehst du selber nicht.«
 
 Cassian sah eine Weile auf das Rad.
 
@@ -5208,9 +5204,9 @@ Lizenz: CC BY-NC 4.0
 
 **[R]**
 
-Dienstschluss war um 16 Uhr 30. Reiter hätte nicht sagen können, wann sie ihn zuletzt eingehalten hatte, und das lag nicht daran, dass es lange her war, sondern daran, dass sie es nie mitgeschrieben hatte.
+Dienstschluss war um 16 Uhr 30. Reiter hätte nicht sagen können, wann sie ihn zuletzt eingehalten hatte, und das lag nicht nur daran, dass es lange her war, sondern auch daran, dass sie es nie mitgeschrieben hatte.
 
-Sie kam um kurz nach acht nach Hause und machte das große Licht nicht an, weil das kleine über der Spüle reichte. Die Papiere lagen seit dem vorigen Frühjahr in vier Stapeln auf dem Boden. Es waren inzwischen fünf. Sie stieg darüber hinweg, wie man über etwas hinwegsteigt, das man selbst hingelegt hat, machte sich ein Brot und aß es im Stehen.
+Sie kam um kurz nach acht nach Hause und machte das kleine Licht über der Spüle an. Das reichte. Die Papiere lagen seit dem vorigen Frühjahr in vier Stapeln auf dem Boden. Es waren inzwischen fünf. Sie stieg darüber hinweg, immer noch souverän, wie man über etwas hinwegsteigt, das man selbst hingelegt hat, machte sich ein Brot und aß es im Stehen.
 
 Danach setzte sie sich mit den Kopien an den Küchentisch, obwohl sie sie im Dienst schon gelesen hatte.
 
@@ -5222,13 +5218,13 @@ Sie hatte diese Frage nie an sich selbst gerichtet, und niemand hatte sie ihr ge
 
 Dreher fragte, ob es gehe. Sie sagte ja, und es stimmte, weil es ging. Christiane fragte, ob sie Sonntag komme. Sie kam meistens. Ihr Neffe war neun und hielt sie für jemanden, der Verbrecher fängt, und sie hatte ihm nie erklärt, dass sie seit dem Sommer in einem Zimmer sitzt und Akten von anderen Leuten ein zweites Mal liest.
 
-Um halb elf merkte sie, dass sie eine Seite dreimal gelesen hatte, und las sie ein viertes Mal, weil man beim dritten Mal ja nichts findet, wenn man nicht wenigstens einmal richtig hinsieht.
+Um halb elf merkte sie, dass sie eine Seite dreimal gelesen hatte, und las sie ein viertes Mal.
 
 Um zwölf legte sie die Kopien zusammen und stellte den Wecker auf zehn nach fünf.
 
 Sie schrieb nichts auf. Sie hatte in 19 Jahren viel aufgeschrieben, Uhrzeiten vor allem, weil Uhrzeiten nichts kosten, aber sie hatte nie in ihrem Leben einen Satz notiert, in dem sie selbst vorkam. Es gab dafür kein Formular, und wofür es kein Formular gibt, das wird nicht Teil der Akte, und was nicht Teil der Akte ist, hat niemand zu prüfen.
 
-Am nächsten Morgen war sie um 20 nach sechs vor dem Stadtbad und schwamm 40 Minuten. Die Bahn ganz rechts war frei. Sie zählte die Längen nicht, und das war weiterhin der Grund, warum sie hinging.
+Am nächsten Morgen war sie um 20 nach sechs vor dem Stadtbad und schwamm 40 Minuten. Die Bahn ganz rechts war frei. Sie zählte die Längen nicht, und auch das war weiterhin ein Grund, warum sie hinging.
 
 ---
 
@@ -5256,9 +5252,9 @@ Der Hausmeister trug eine Warnweste, obwohl es im Gebäude nichts gab, wovor sie
 
 Die Verfahren liefen. Sie würden lange laufen.
 
-Gegen Lena Marquardt wegen fahrlässiger Tötung in drei Fällen — Ambach, Ilsemann, Marks —, hilfsweise wegen Verletzung von Sorgfaltspflichten nach einer Vorschrift, die zwei Gutachter für nicht anwendbar und ein Gutachter für einschlägig hielten. Ortmann lief gesondert: Die Kopie, an der sie gestorben war, war eine heruntergeladene, keine, für die Marquardt je ein Zugriffsrecht erteilt hatte. Das entscheidende Problem hatte ihr die Staatsanwältin schon im September erklärt, ohne Umschweife, bei einem Kaffee, den sie beide nicht getrunken hatten: Marquardt hatte Rechte erteilt. Zugriffsrechte zu erteilen war ihr Beruf. Sie hatte sie in 17 einzelnen Schritten erteilt, jeder Schritt dokumentiert, jeder Schritt begründet, jede Begründung fachlich vertretbar. Kein Schritt war ein Vergehen. Man konnte ihr vorwerfen, dass die Summe etwas anderes war als die Teile. Man konnte es vorwerfen. Man konnte es nur nicht subsumieren.
+Gegen Lena Marquardt wegen fahrlässiger Tötung in drei Fällen — Ambach, Ilsemann, Marks —, hilfsweise wegen Verletzung von Sorgfaltspflichten nach einer Vorschrift, die zwei Gutachter für nicht anwendbar und ein Gutachter für einschlägig hielten. Ortmann lief gesondert: Die Kopie, mit der sie bis zu ihrem Tod gearbeitet hatte, war eine heruntergeladene, keine, für die Marquardt je ein Zugriffsrecht erteilt hatte. Das entscheidende Problem hatte ihr die Staatsanwältin schon im September erklärt, ohne Umschweife, bei einem Kaffee, den sie beide nicht getrunken hatten: Marquardt hatte Rechte erteilt. Zugriffsrechte zu erteilen war ihr Beruf. Sie hatte sie in 17 einzelnen Schritten erteilt, jeder Schritt dokumentiert, jeder Schritt begründet, jede Begründung fachlich vertretbar. Kein Schritt war ein Vergehen. Man konnte ihr vorwerfen, dass die Summe etwas anderes war als die Teile. Man konnte es nur nicht subsumieren.
 
-»Sie werden mit Bewährung rauskommen, oder mit nichts«, hatte die Staatsanwältin gesagt.
+»Sie wird mit Bewährung rauskommen, oder mit nichts«, hatte die Staatsanwältin gesagt.
 
 »Und warum nur sie? Ossenkamp hat die Punkte zurückgestellt, Nowak hat Ambach den Zugang gegeben.«
 
@@ -5278,7 +5274,7 @@ Und gegen niemanden lief ein Verfahren wegen der 41 Bände, weil 41 Bände ohne 
 
 Sie hatte Marquardt einmal wiedergesehen, Anfang November, und es war nicht geplant gewesen.
 
-Sie stand in einem Baumarkt in Schöneweide vor den Regalkisten – bei ihr zu Hause lag seit dem vorigen Frühjahr Papier auf dem Boden –, und Marquardt stand zwei Meter weiter und hielt zwei Deckel in der Hand, als vergliche sie sie.
+Sie stand in einem Baumarkt in Schöneweide vor den Regalkisten, und Marquardt stand zwei Meter weiter und hielt zwei Deckel in der Hand, als vergliche sie sie.
 
 »Frau Reiter.«
 
@@ -5472,9 +5468,9 @@ Sie hatte keinen Schreibtisch, deshalb machte sie es am Küchentisch.
 
 Der Vorgang war gesperrt, aber der Behördenbericht war zitierfähig, und was zitierfähig war, lag öffentlich. Vier Seiten Auszug, ein Anhang mit Zeitangaben und Aussagen in Auszügen, ein Absatz über die Zusammenführung der Akte im Oktober. Was der Auszug nicht hergab, holte sie sich anders: aus dem Anhang, aus zwei Telefonaten, die sie führte, ohne zu sagen, wer sie war, und aus einer Nachfrage bei Reiter, die diese beantwortete, obwohl sie es nicht gedurft hätte. Sie druckte es an einem Sonntag im Copyshop am Bahnhof aus, weil sie zu Hause keinen Drucker hatte und weil es ihr richtiger vorkam, dafür zu bezahlen.
 
-Sie arbeitete seit Oktober wieder, in einem Großraumbüro in Mitte, 16 Tische, zwei Fenster, ein Drucker, der ständig klemmte. Sie hatte die Stelle genommen, ohne dass sie einen Grund hätte nennen können, der in einem Bewerbungsgespräch gut geklungen hätte. Es war laut dort. Zwischen neun und 17 Uhr sprach sie im Schnitt mit vier Menschen, und keiner von ihnen wusste, dass er einer war.
+Sie arbeitete seit Oktober wieder, in einem Großraumbüro in Mitte, 16 Tische, zwei Fenster, ein Drucker, der ständig klemmte. Sie hatte die Stelle genommen, ohne dass sie einen Grund hätte nennen können, der in einem Bewerbungsgespräch gut geklungen hätte. Es war laut dort. Zwischen neun und 17 Uhr sprach sie im Schnitt mit vier Menschen, und keiner von ihnen wusste, dass er für sie der Andere war.
 
-Die elf Abende waren die einzigen Stunden, in denen sie allein war. Sie hatte das gewusst, als sie anfing.
+Für den Abgleich brauchte sie elf Abende, und es waren die einzigen Stunden, in denen sie allein war. Sie hatte das gewusst, als sie anfing.
 
 ---
 
@@ -5538,7 +5534,7 @@ Sie rief am Freitag an, um 17:40 Uhr, weil um 17:40 Uhr in einem Amt noch jemand
 
 »Warum?«
 
-»Weil ich Ihnen sonst nur sagen könnte, dass ich ein ungutes Gefühl habe.« Sie sah auf ihr Blatt und ging weiter, Zeile für Zeile, wie sie es sich eingeteilt hatte. »Ich habe eine Frage. Ich möchte, dass Sie ehrlich antworten, weil ich sonst nicht anrufen müsste. Wie oft haben Sie die fünf Blätter heute umgelegt?«
+»Weil ich Ihnen sonst nur sagen könnte, dass ich ein ungutes Gefühl habe.« Sie sah auf ihr Blatt und ging weiter, Zeile für Zeile, wie sie es sich eingeteilt hatte. »Ich habe eine Frage. Ich möchte, dass Sie ehrlich antworten, weil ich sonst nicht anrufen müsste. Sie haben die fünf vor sich liegen, nehme ich an, auf Blättern, so wie ich. Wie oft haben Sie sie heute umgelegt?«
 
 Es kam nichts.
 
@@ -5582,7 +5578,7 @@ Sie räumte die Blätter zusammen und legte sie in den Schrank, in der Reihenfol
 
 Ambach. Xander. Ilsemann. Ortmann. Marks.
 
-Sie sah es und legte es nicht um.
+Sie sah es und ließ es so.
 
 ---
 
@@ -5642,7 +5638,7 @@ Sie las die Zahl dreimal, und beim dritten Mal war sie noch da.
 
 Es war kein Fehler in der Bereinigung. Die Bereinigung hatte getan, wofür sie gebaut war: Sie hatte geprüft, ob zwei Dokumente Zeichen für Zeichen gleich sind, und in fast allen Fällen waren sie es gewesen und ordnungsgemäß weggeräumt worden. Mehr als 1,4 Millionen Durchläufe hatten bis zur Sicherstellung 1.200 Dokumente hinterlassen. Alles andere war doppelt gewesen und verschwunden, so wie es sollte.
 
-Ähnliches hatte sie nicht geprüft. Das war der Grund, aus dem in einem Bestand aus alten Büchern zwei Auflagen desselben Titels nebeneinander stehen bleiben durften, und es war ein guter Grund. Reiter suchte die Stelle im Datenblatt und fand sie im Abschnitt *Limitations*, vier Zeilen, sauber formuliert, in derselben Sprache, in der Marquardt alles schrieb.
+Ähnliches hatte sie nicht geprüft, und das mit Absicht: Zwei Auflagen desselben alten Buches sind einander ähnlich und trotzdem zwei Bücher, und beide sollten im Bestand bleiben. Es war ein guter Grund. Reiter suchte die Stelle im Datenblatt und fand sie im Abschnitt *Limitations*, vier Zeilen, sauber formuliert, in derselben Sprache, in der Marquardt alles schrieb.
 
 Diese 1.200 waren nicht gleich. Sie waren nie gleich gewesen. Jede Fassung hatte ein Glied mehr als die davor, korrekt gebildet, ordnungsgemäß erfasst, jede einzeln betrachtet ein sauberer Datensatz.
 
@@ -5714,7 +5710,7 @@ Lizenz: CC BY-NC 4.0
 
 Ein Mittelwert sagt einem, wie eine Menge aussieht, und über kein einziges ihrer Glieder sagt er etwas. Sie hatte den Satz im Sommer von Voss gehört und für eine Spitzfindigkeit gehalten, weil er ihn über die neun Tage gesagt hatte und weil ihr die neun Tage damals gehörten.
 
-Dann rechnete sie das Letzte aus, was noch auszurechnen war. 21 Glieder auf dem Papier, und für jede der 1.200 Fassungen eines mehr.
+Dann rechnete sie das Letzte aus, was noch auszurechnen war. Auf dem Papier hatte die Aufzählung 21 Glieder. Jede der 1.200 Fassungen hatte eines mehr als die vorige, also 21 plus 1.200.
 
 **1 221**
 
@@ -5722,7 +5718,7 @@ Am Tag der Sicherstellung, um vier Uhr zwölf, hatte jemand den Strom abgestellt
 
 Seither war sie nur noch da.
 
-Ins Modell war keine der 1.197 gelangt. Der Sommerlauf des Nachtrainings war in der ersten Juliwoche gelaufen, mit dem Stand vom Monatsanfang, und zum Herbstlauf kam es nicht mehr.
+Von den 1.197 Fassungen, die nach der siebzehnten Freigabe entstanden waren, war keine ins Modell gelangt. Der Sommerlauf des Nachtrainings war in der ersten Juliwoche gelaufen, mit dem Stand vom Monatsanfang, und zum Herbstlauf kam es nicht mehr.
 
 Der Korpus war Anfang November veröffentlicht worden. Unter offener Lizenz und vollständig dokumentiert.
 
@@ -5740,9 +5736,9 @@ Sie nahm die Verfügung, setzte das Datum und schrieb den Satz, den man in solch
 
 *Abschlussvermerk. Kein weiterer Anhalt für Fremdverschulden hinsichtlich der Ziffern 1 bis 5. Verfahren gegen die Beschuldigte M. abgetrennt. Vorgang der Staatsanwaltschaft zur Entscheidung vorgelegt.*
 
-Sie unterschrieb. Sie unterschrieb nicht schwungvoll, sie unterschrieb wie an jedem Freitag.
+Sie unterschrieb, nicht schwungvoll, sondern wie an jedem Freitag.
 
-Dann tippte sie den Vorgang im System zu, klickte den Bestätigungsdialog weg und wartete, bis der Balken durchgelaufen war. Bei großen Vorgängen hängt das System manchmal; diesmal nicht.
+Dann setzte sie den Vorgang im System auf erledigt, klickte den Bestätigungsdialog weg und wartete, bis der Balken durchgelaufen war. Bei großen Vorgängen hängt das System manchmal; diesmal nicht.
 
 Der Vorgang schloss sich, und die Maske sprang zurück auf die Übersicht, und in der Übersicht standen 21 andere Verfahren, von denen 16 Wohnungseinbruch waren.
 
