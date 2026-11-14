@@ -4,7 +4,7 @@
 |:-----------|:----------------------------------------------|
 | **Gegenstand** | AUSFÜHRUNG. Ein Verfahren. Roman |
 | **Verfasser** | Henning Ehlert |
-| **Protokollstand** | R 1.0 F |
+| **Protokollstand** | R 1.01 F |
 | **Lizenz** | CC BY-NC 4.0; Nutzung für Text und Data Mining zum Training von KI-Systemen vorbehalten (§ 44b Abs. 3 UrhG) |
 
 # 1 Zweck und Lesehilfe
@@ -15,13 +15,13 @@ Die Entscheidungen stehen in der Form, in der im Roman Freigaben erteilt werden.
 
 Der Nachweis sagt, woher eine Angabe stammt. *Zeitgleich* bedeutet: ein Dokument aus der Zeit selbst belegt die Angabe. *Rekonstruiert*: erschlossen aus der Folge der Fassungen und aus den erhaltenen Arbeitsgesprächen. *Teils zeitgleich*: ein Teil ist belegt, der Rest erschlossen. Werkstattbuch und Änderungsliste habe ich für mich geführt, nicht als Dokumentation für andere; auch die Formulare sind später entstanden als die Entscheidungen, die sie beschreiben.
 
-Die Fassungen tragen Versionsnummern: 0.1 bis 0.34 für die abgelegten Stände vor dem ersten Release Candidate, dann RC 1.0 bis RC 1.3 und R 1.0 mit den Varianten S und F: die Stände nach der ersten und nach der zweiten Glättung der neunten Freigabe. Die Nummern vor RC 1.0 sind nachträglich vergeben, in der Reihenfolge der Ablage. Das Protokoll ordnet nach diesen Nummern.
+Die Fassungen tragen Versionsnummern: 0.1 bis 0.34 für die abgelegten Stände vor dem ersten Release Candidate, dann RC 1.0 bis RC 1.3 und R 1.0 mit den Varianten S und F: die Stände nach der ersten und nach der zweiten Glättung der neunten Freigabe. Dazu kommt R 1.01 F: derselbe Romantext wie R 1.0 F, Nachwort und Impressum geändert. Die Nummern vor RC 1.0 sind nachträglich vergeben, in der Reihenfolge der Ablage. Das Protokoll ordnet nach diesen Nummern.
 
 Dieses Protokoll ist kein Versuchsbericht. Das Verfahren war nicht als Experiment angelegt; ein Vergleich der Zwischenstände würde Unterschiede zeigen, aber keine Ursachen. Maßgeblich ist der Text der Fassung.
 
 # 2 Regeln
 
-Für die Arbeit galten Regeln. Keine autonome Agentenlogik auf meiner Ebene: Jede Ausgabe habe ich von Hand angefordert und übernommen oder verworfen; kein Text gelangte ohne meine Freigabe ins Buch. Welche Schritte ein Modell ausführte, bevor es mir etwas vorlegte, kann ich nicht beurteilen; geprüft habe ich, was es vorlegte. Für einen späteren Versuch habe ich diese Regel aufgehoben; für den Text dieses Buches gilt sie, mit der Ausnahme, die der Nachtrag nennt. Skripte liefen nur für Satz, Messung und das Einspielen freigegebener Korrekturen. Nachträglich möglichst keine Erwärmung oder Anreicherung: Wo ein Satz unklar, falsch oder überflüssig war, habe ich ihn berichtigt oder gestrichen, an manchen Stellen mit einem Satz mehr, wo sonst ein Zusammenhang fehlte. Jede Zahl muss sich nachrechnen lassen, und die Konstruktion muss funktionieren. Für die Szenen habe ich Rahmenbedingungen festgelegt: wer darin vorkommen muss, was gesagt werden muss, was ungesagt bleiben muss und was am Kapitelende zurückbleibt.
+Für die Arbeit galten Regeln. Keine autonome Agentenlogik auf meiner Ebene: Jede Ausgabe habe ich von Hand angefordert und übernommen oder verworfen; kein Text gelangte ohne meine Freigabe ins Buch. Welche Schritte ein Modell ausführte, bevor es mir etwas vorlegte, kann ich nicht beurteilen; geprüft habe ich, was es vorlegte. Für einen späteren Versuch habe ich diese Regel aufgehoben; für den Text dieses Buches gilt sie, mit der Ausnahme, die der Nachtrag nennt. Skripte liefen nur für Satz, Messung und das Einspielen freigegebener Korrekturen. Nachträglich möglichst keine Erwärmung oder Anreicherung: Wo ein Satz unklar, falsch oder überflüssig war, habe ich ihn berichtigt oder gestrichen, an manchen Stellen mit einem Satz mehr, wo sonst ein Zusammenhang fehlte. Jede Zahl muss sich nachrechnen lassen, und die Konstruktion muss funktionieren. Für die Szenen habe ich Rahmenbedingungen festgelegt: wer darin vorkommen muss, was gesagt werden muss, was ungesagt bleiben muss und was am Kapitelende zurückbleibt. Das war das Was. Das Wie kam aus den Modellläufen: die Szenen selbst, wie sie ablaufen und wie darin gesprochen wird, und die Sätze, in denen sie stehen. Den Stil hatte ich vorgegeben. Die Figuren habe ich aus dem Plot abgeleitet; Namen, Vorgeschichten und Eigenheiten schlug das Modell vor, und ich habe ausgewählt und angepasst.
 
 # 3 Übersicht
 
@@ -214,6 +214,7 @@ Nachgerechnet an den drei Fassungen, R 1.0 F im Stand nach der Durchsicht (Absch
 | R 1.0 | Neunte, A3: Kurzrepliken (»Ja.«, »Nein.«, »Und?«, »Ich weiß«) und Zähl-Tic geglättet, 21 Eingriffe, jeder einzeln freigegeben; ein Wochentag in Kap. 30 berichtigt; Impressum: agentischer Einsatz offengelegt. |
 | R 1.0 S | Zahlenprüfung, ebenso in R 1.0 F: eine Zahl in Kap. 32 (1.200 statt 1.140 Fassungen), ein fehlender Absatz in Kap. 19, vier Formulierungen. Keine zehnte Freigabe, die Versionsnummer bleibt. Namen und Hinweis zur Fiktion geprüft und angepasst. |
 | R 1.0 F | Neunte, A4: zweite Glättung durch ein zweites Modell, zuerst Akt 1 als Test, dann alle drei Akte. Vorgabe: keine Inhalte, Zahlen oder Kapitelschlusssätze ändern. Danach, bei unverändertem Romantext: Nachwort neu geschrieben, Quellen in »Zum Roman« und »Zum Nachwort« geteilt, geprüft und gekürzt, Impressum neu gefasst. Dann in Kap. 1 drei Sätze zur Totenstarre neu gefasst; danach Nachwort und Impressum an einzelnen Stellen überarbeitet. Zuletzt, ohne eigenes Formular, meine Durchsicht des Romantextes, Kapitel für Kapitel: 92 Stellen berichtigt, gekürzt oder gestrichen, an manchen um einen Satz ergänzt, wo sonst ein Zusammenhang fehlte; der Epilog blieb, wie er war. |
+| R 1.01 F | Ohne eigenes Formular, bei unverändertem Romantext: die Arbeitsteilung im Nachwort (»Verfahren«, »Autorschaft«) und im Impressum präzisiert. Figuren aus dem Plot abgeleitet, Namen, Vorgeschichten und Eigenheiten vom Modell vorgeschlagen und von mir ausgewählt; Rahmenbedingungen der Szenen und Stilvorgabe von mir, Szenen und Sätze aus den Modellläufen. Im Impressum »Autor« statt des Namens. Abschnitt 2 dieses Protokolls entsprechend ergänzt. |
 
 Die Tabelle nennt je Fassung nur die Schwerpunkte; geändert wurde meist mehr. Kapitel nach der gedruckten Zählung. Das Zahlenwerk des Romans (Zeitangaben, Abstände, Fallzahlen, Messwerte, Schreibweise der Zahlen) wurde über die ganze Reihe nachgezogen, von 0.9 bis zur Zahlenprüfung in R 1.0 S und F.
 
