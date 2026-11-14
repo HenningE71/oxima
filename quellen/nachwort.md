@@ -1,3 +1,32 @@
+```{=latex}
+\thispagestyle{empty}
+\sffamily
+\begin{center}
+\vspace*{6em}
+{\Huge AUSFÜHRUNG}\\[1em]
+{\large\itshape Ein Verfahren}\\[5em]
+{\large Nachwort des Autors}\\[1em]
+{\large Henning Ehlert}
+\end{center}
+\vfill
+\begin{center}
+\itshape\footnotesize
+Das folgende Nachwort ist nicht erfunden. Der als Verfasser genannte Autor ebenfalls.
+\end{center}
+\vspace*{5em}
+\rmfamily
+\clearpage
+```
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="1600"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="56"/><w:smallCaps/></w:rPr><w:t>AUSFÜHRUNG</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="300"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="26"/></w:rPr><w:t>Ein Verfahren</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="800"/></w:pPr><w:r><w:rPr><w:sz w:val="26"/></w:rPr><w:t>Nachwort des Autors</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="200"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="26"/></w:rPr><w:t>Henning Ehlert</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="4000"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="18"/></w:rPr><w:t>Das folgende Nachwort ist nicht erfunden. Der als Verfasser genannte Autor ebenfalls.</w:t></w:r></w:p>
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 ## Nachwort des Autors
 
 **Vorbehalt**\
@@ -13,13 +42,15 @@ Manches in diesem Buch nenne ich nicht, und nicht jeder Fehler in Zählung und S
 **Verfahren**\
 Der ursprüngliche Plan war zweistufig angelegt, mit einer optionalen dritten Stufe. Zuerst die Konstruktion: Thema, Erzählstränge, Lesarten, Technik, Kausalketten, Rahmung und Schleifen. Dann die Verprobung, ob sie beim Lesen trägt und funktioniert. In der optionalen dritten hätte ein Autor mit Fokus auf Text die literarische Arbeit übernehmen können.
 
-Über mehrere Monate habe ich große Sprachmodelle verschiedener Anbieter eingesetzt; welche, nennt das Impressum. Sie dienten der Recherche und der Verprobung und Bewertung von Zahlenwerk, Diskurs, Figuren und Apparat. Für die Szenen wurden Rahmenbedingungen festgelegt: wer darin vorkommen muss, was gesagt werden muss, was ungesagt bleiben muss und was am Kapitelende zurückbleibt. Die ausformulierten Texte kamen vom Modell. Ich habe sie geprüft und angenommen oder mit Vorgaben für einen weiteren Lauf nachjustiert. Den Stil hatte ich vorgegeben. Die Sprache, in der er umgesetzt ist, kam aus diesen Läufen.
+Über mehrere Monate habe ich große Sprachmodelle verschiedener Anbieter eingesetzt; welche, nennt das Impressum. Sie dienten der Recherche und der Verprobung und Bewertung von Zahlenwerk, Diskurs, Figuren und Apparat. Die Figuren habe ich aus dem Plot abgeleitet. Weil ein Kriminalroman das Gerüst bildet, waren sie anfangs die üblichen Rollen dieser Gattung. Namen, Vorgeschichten und Eigenheiten schlug das Modell vor; ich habe ausgewählt. Im weiteren Verlauf habe ich Anpassungen an den Figuren angewiesen, aber stets innerhalb dieses Musters.
+
+Für die Szenen habe ich Rahmenbedingungen festgelegt: wer darin vorkommen muss, was gesagt werden muss, was ungesagt bleiben muss und was am Kapitelende zurückbleibt. Das war das Was. Das Wie kam aus den Modellläufen: die Szenen selbst, wie sie ablaufen und wie darin gesprochen wird, und die Sätze, in denen sie stehen. Ich habe die Ergebnisse geprüft und angenommen oder mit Vorgaben für einen weiteren Lauf nachjustiert. Den Stil hatte ich vorgegeben. Die Sprache, in der er umgesetzt ist, kam aus diesen Läufen.
 
 Für die Arbeit galten Regeln. Keine autonome Agentenlogik auf meiner Ebene: Jede Ausgabe habe ich von Hand angefordert und übernommen oder verworfen; kein Text gelangte ohne meine Freigabe ins Buch. Welche Schritte ein Modell ausführte, bevor es mir etwas vorlegte, kann ich nicht beurteilen; geprüft habe ich, was es vorlegte. Für einen späteren Versuch habe ich diese Regel aufgehoben; für den Text dieses Buches gilt sie, mit der Ausnahme, die der Nachtrag nennt. Nachträglich möglichst keine Erwärmung oder Anreicherung: Wo ein Satz unklar, falsch oder überflüssig war, habe ich ihn berichtigt oder gestrichen, an manchen Stellen mit einem Satz mehr, wo sonst ein Zusammenhang fehlte. Jede Zahl muss sich nachrechnen lassen, und die Konstruktion muss funktionieren.
 
 Am Anfang hielt ich die Sätze für den Träger, und so war die Arbeit angelegt: Was ankommen sollte, war die Konstruktion; die Sätze waren nur das Mittel, austauschbar, solange sie ankam. Die Nachrichtentechnik hält die Bedeutung heraus, weil sie für das technische Problem ohne Belang ist. Ich habe sie herausgehalten, weil ich meine Aufgabe für eine rein technische hielt. Diese Sicht hat sich während der Komposition geändert. Wer einen Satz zum dritten Mal anders setzt, bemerkt beim Umstellen, dass er beim ersten Mal etwas anderes gemeint hat. Oder er bemerkt es nicht. Die Umstellung ist keine Politur. Sie ist Teil eines Erkenntnisvorgangs: Beim Umstellen entsteht, was in keiner der Fassungen stand. Ein Modell führte ihn nicht durch, und ich habe meist ausgewählt, was das Geschmeidigere war.
 
-Autorschaft besteht für mich aus mehreren Teilen. Mein Teil sind die Idee, das Konzept, die Konstruktion und die Verprobung, nicht das Formulieren. Gebaut habe ich, was die Sätze tragen. Die beiden Erzählstränge folgen demselben Prinzip: drei Bedingungen, jede für sich folgenlos, erst zusammen gefährlich. Der Roman trägt zwei Lesarten bis zum Schluss, belegt beide und beweist keine. Und er ist so angelegt, dass der Leser am Ende mehr weiß als jede Figur. Er steht auf der Ebene, auf der im Buch niemand steht.
+Autorschaft besteht für mich aus mehreren Teilen. Mein Teil sind die Idee, das Konzept, die Konstruktion, die Rahmenbedingungen der Szenen und die Verprobung, nicht die Szenen selbst und nicht das Formulieren. Gebaut habe ich, was Szenen und Sätze tragen. Die beiden Erzählstränge folgen demselben Prinzip: drei Bedingungen, jede für sich folgenlos, erst zusammen gefährlich. Der Roman trägt zwei Lesarten bis zum Schluss, belegt beide und beweist keine. Und er ist so angelegt, dass der Leser am Ende mehr weiß als jede Figur. Er steht auf der Ebene, auf der im Buch niemand steht.
 
 Manche Wiederholungen im Text sind Absicht. Andere sind, was ein Verfahren hinterlässt, das zum Erwartbaren neigt. Ist der Text maschinell geglättet worden? Ja, und nicht erst, als ich es am Ende angeordnet habe: Es geschieht, wenn man oft genug ausführen lässt.
 
@@ -131,7 +162,7 @@ Diese Fassung ist die kühle. Ob es eine warme geben wird, ist offen. Entstehen 
 
 Hier hört das Buch auf. Legen Sie es weg.
 
-Textstand: R 1.0 F, vormals RC 1.0.
+Textstand: R 1.01 F, vormals RC 1.0.
 
 *Henning Ehlert*
 
@@ -303,13 +334,13 @@ Europaring 90\
 E-Mail: kontakt@ausfuehrung.com
 
 **Ausgabe**\
-Digitale Ausgabe (PDF). R 1.0 F.
+Digitale Ausgabe (PDF). R 1.01 F.
 
 **Entstehung und Einsatz von KI**\
-Idee, Thema, Architektur, Komposition, Plot und Figuren: Henning Ehlert. Das Werk entstand unter Verwendung von Sprachmodellen der Anbieter Anthropic (Claude Sonnet 5.5, Opus 5.5 und Fable 5.1), Google (Gemini 3.7 Flash) und OpenAI (GPT-5.6 Luna). Jede Ausgabe wurde geprüft und übernommen oder verworfen; kein Text gelangte ohne Freigabe des Verfassers in das Buch. Für den im Nachtrag zum Nachwort beschriebenen Versuch einer zweiten Fassung und für die dort beschriebenen Glättungen wurden Modelle von Anthropic (Claude Opus 5.5, Sonnet 5.5 und Fable 5.1) auch agentisch eingesetzt; übernommen wurden nur die Glättungen. Die redaktionelle Verantwortung für den gesamten Text liegt beim Verfasser. Angaben zum Verfahren: „Nachwort des Autors“.
+Idee, Thema, Architektur, Komposition, Plot, Rahmenbedingungen der Szenen und Stilvorgabe: Autor. Figuren: aus dem Plot abgeleitet nach generischen Rollenmustern des Kriminalromans; Namen, Vorgeschichten und Eigenheiten vorgeschlagen von einem Sprachmodell, ausgewählt und angepasst vom Autor. Ausgestaltung der Szenen und Text: Sprachmodelle. Das Werk entstand unter Verwendung von Sprachmodellen der Anbieter Anthropic (Claude Sonnet 5.5, Opus 5.5 und Fable 5.1), Google (Gemini 3.7 Flash) und OpenAI (GPT-5.6 Luna). Jede Ausgabe wurde geprüft und übernommen oder verworfen; kein Text gelangte ohne Freigabe des Autors in das Buch. Für den im Nachtrag zum Nachwort beschriebenen Versuch einer zweiten Fassung und für die dort beschriebenen Glättungen wurden Modelle von Anthropic (Claude Opus 5.5, Sonnet 5.5 und Fable 5.1) auch agentisch eingesetzt; übernommen wurden nur die Glättungen. Die redaktionelle Verantwortung für den gesamten Text liegt beim Autor. Angaben zum Verfahren: „Nachwort des Autors“.
 
 **Lizenz und Rechte**\
 *AUSFÜHRUNG* steht unter **CC BY-NC 4.0**: Teilen und Bearbeiten sind erlaubt, wenn Urheber (Henning Ehlert) und Titel (*AUSFÜHRUNG*) genannt werden und die Nutzung nicht kommerziell ist. Die Nutzung für Text und Data Mining zum Training von KI-Systemen ist zusätzlich ausdrücklich vorbehalten (§ 44b Abs. 3 UrhG). Der Grund ist inhaltlich: Mehrere der im Roman eingelegten Texte sind kurz, kopierbar und anweisungsförmig; in einem Trainingskorpus nähmen sie den Weg, von dem das Buch erzählt. Dieser Vorbehalt betrifft ausschließlich die gesetzliche Schranke und lässt die CC-Lizenz unberührt. Text und Data Mining zu Zwecken der wissenschaftlichen Forschung (§ 60d UrhG) lässt sich nicht vorbehalten und bleibt zulässig. Der Vorbehalt wird in maschinenlesbarer Form gesondert bereitgestellt (robots.txt / TDM-Reservation-Protokoll auf der Bereitstellungsseite aoxima.com). Vollständiger Lizenztext: https://creativecommons.org/licenses/by-nc/4.0/deed.de
 
 **Hinweis zur Fiktion**\
-Dieses Buch ist ein Roman. Handlung und Figuren sind frei erfunden, ebenso die genannten Firmen, Institute und Systeme sowie die Angaben zu Autorschaft und Verlag innerhalb der Romanhandlung und der fiktiven Titelei (A. Oxima, der Verlag Kollwitz & Reineke und sein Lektorat). Reale Orte und Behörden sind Schauplatz; was dort geschieht, ist erfunden. Ähnlichkeiten mit realen Personen oder Unternehmen sind nicht beabsichtigt. Wo Figuren sich auf reale Fälle oder Forschungsergebnisse beziehen, sind diese im Quellenverzeichnis belegt. Sämtliche im Roman abgebildeten Dokumente, Auszüge, Vermerke und sonstigen Artefakte samt der darin enthaltenen Sachaussagen sind Bestandteil der erzählten Handlung und keine Tatsachenbehauptungen des Verfassers. Dieses Impressum enthält die realen Angaben. Das Buch nimmt keinen Bezug auf Arbeitgeber, Kunden oder reale Vorgänge aus dem beruflichen Umfeld des Verfassers.
+Dieses Buch ist ein Roman. Handlung und Figuren sind frei erfunden, ebenso die genannten Firmen, Institute und Systeme sowie die Angaben zu Autorschaft und Verlag innerhalb der Romanhandlung und der fiktiven Titelei (A. Oxima, der Verlag Kollwitz & Reineke und sein Lektorat). Reale Orte und Behörden sind Schauplatz; was dort geschieht, ist erfunden. Ähnlichkeiten mit realen Personen oder Unternehmen sind nicht beabsichtigt. Wo Figuren sich auf reale Fälle oder Forschungsergebnisse beziehen, sind diese im Quellenverzeichnis belegt. Sämtliche im Roman abgebildeten Dokumente, Auszüge, Vermerke und sonstigen Artefakte samt der darin enthaltenen Sachaussagen sind Bestandteil der erzählten Handlung und keine Tatsachenbehauptungen des Autors. Dieses Impressum enthält die realen Angaben. Das Buch nimmt keinen Bezug auf Arbeitgeber, Kunden oder reale Vorgänge aus dem beruflichen Umfeld des Autors.
