@@ -67,7 +67,7 @@ Aufruf im Hauptordner:
 sh build_roman.sh
 ```
 
-Ergebnis: `out_ROMAN/AUSFUEHRUNG_Roman_R1.0F.pdf`. Der zusammengesetzte Quelltext liegt als `AUSFUEHRUNG_Roman_R1.0F.md` im Hauptordner. Beides sowie `titelblatt/titelblatt.pdf` entsteht bei jedem Lauf neu und wird von Git ignoriert.
+Ergebnis: `out_ROMAN/AUSFUEHRUNG_Roman_R1.01F.pdf`. Der zusammengesetzte Quelltext liegt als `AUSFUEHRUNG_Roman_R1.01F.md` im Hauptordner. Beides sowie `titelblatt/titelblatt.pdf` entsteht bei jedem Lauf neu und wird von Git ignoriert.
 
 ## Prüfen
 
@@ -75,7 +75,7 @@ Nach jedem Bau:
 
 1. Errata-Ausgabe: Alle Zeilen müssen `OK` zeigen. Der Bau bricht bei `FEHLT` nicht ab; das Protokoll steht in `out_ROMAN/errata_*.log`.
 2. Seitenzahl: `Pages: 246`.
-3. `sha256sum AUSFUEHRUNG_Roman_R1.0F.md` (macOS: `shasum -a 256 …`) beginnt mit `f6f8f15fd64a6aef`. Dann ist der Quelltext zeichengleich mit der Ausgabe R 1.0 F.
+3. `sha256sum AUSFUEHRUNG_Roman_R1.01F.md` (macOS: `shasum -a 256 …`) beginnt mit `f2a638f9ec84608d`. Dann ist der Quelltext zeichengleich mit der Ausgabe R 1.01 F.
 
 Das PDF selbst ist nicht bytegleich reproduzierbar (Zeitstempel und Kennung). Maßgeblich sind die md, die Seitenzahl und die Errata.
 
@@ -84,7 +84,7 @@ Das PDF selbst ist nicht bytegleich reproduzierbar (Zeitstempel und Kennung). Ma
 - In `build_roman.sh` den Dateinamen (`R=…`) und die Thema-Zeile für `meta_he.py` anpassen.
 - Ändert sich der Umbruch: `errata_stellen.json` und die Errata-Zeilen im Text nachziehen. `errata_check.py` zeigt, wo die Stellen stattdessen stehen.
 - Im README die Prüfsumme unter *Prüfen* auf die neue md setzen.
-- Release mit Tag ohne Datum (`R1.0F`, später `R1.1F` usw.), das PDF als Anhang.
+- Release mit Tag ohne Datum (`R1.0F`, `R1.01F` usw.), das PDF als Anhang.
 
 ## Lizenz
 
