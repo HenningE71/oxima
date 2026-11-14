@@ -1,3 +1,32 @@
+```{=latex}
+\thispagestyle{empty}
+\sffamily
+\begin{center}
+\vspace*{6em}
+{\Huge AUSFÜHRUNG}\\[1em]
+{\large\itshape Ein Verfahren}\\[5em]
+{\large Nachwort des Autors}\\[1em]
+{\large Henning Ehlert}
+\end{center}
+\vfill
+\begin{center}
+\itshape\footnotesize
+Das folgende Nachwort ist nicht erfunden. Der als Verfasser genannte Autor ebenfalls.
+\end{center}
+\vspace*{5em}
+\rmfamily
+\clearpage
+```
+
+```{=openxml}
+<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="1600"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="56"/><w:smallCaps/></w:rPr><w:t>AUSFÜHRUNG</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="300"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="26"/></w:rPr><w:t>Ein Verfahren</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="800"/></w:pPr><w:r><w:rPr><w:sz w:val="26"/></w:rPr><w:t>Nachwort des Autors</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="200"/></w:pPr><w:r><w:rPr><w:b/><w:sz w:val="26"/></w:rPr><w:t>Henning Ehlert</w:t></w:r></w:p>
+<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="4000"/></w:pPr><w:r><w:rPr><w:i/><w:sz w:val="18"/></w:rPr><w:t>Das folgende Nachwort ist nicht erfunden. Der als Verfasser genannte Autor ebenfalls.</w:t></w:r></w:p>
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 ## Nachwort des Autors
 
 **Vorbehalt**\
@@ -308,7 +337,7 @@ E-Mail: kontakt@ausfuehrung.com
 Digitale Ausgabe (PDF). R 1.01 F.
 
 **Entstehung und Einsatz von KI**\
-Idee, Thema, Architektur, Komposition, Plot, Rahmenbedingungen der Szenen und Stilvorgabe: Autor. Figuren: aus dem Plot abgeleitet nach generischen Rollenmustern des Kriminalromans; Namen, Vorgeschichten und Eigenheiten vorgeschlagen von einem Sprachmodell, ausgewählt und angepasst vom Autor. Ausgestaltung der Szenen und Text: Sprachmodelle. Das Werk entstand unter Verwendung von Sprachmodellen der Anbieter Anthropic (Claude Sonnet 5.5, Opus 5.5 und Fable 5.1), Google (Gemini 3.7 Flash) und OpenAI (GPT-5.6 Luna). Jede Ausgabe wurde geprüft und übernommen oder verworfen; kein Text gelangte ohne Freigabe des Verfassers in das Buch. Für den im Nachtrag zum Nachwort beschriebenen Versuch einer zweiten Fassung und für die dort beschriebenen Glättungen wurden Modelle von Anthropic (Claude Opus 5.5, Sonnet 5.5 und Fable 5.1) auch agentisch eingesetzt; übernommen wurden nur die Glättungen. Die redaktionelle Verantwortung für den gesamten Text liegt beim Verfasser. Angaben zum Verfahren: „Nachwort des Autors“.
+Idee, Thema, Architektur, Komposition, Plot, Rahmenbedingungen der Szenen und Stilvorgabe: Autor. Figuren: aus dem Plot abgeleitet nach generischen Rollenmustern des Kriminalromans; Namen, Vorgeschichten und Eigenheiten vorgeschlagen von einem Sprachmodell, ausgewählt und angepasst vom Autor. Ausgestaltung der Szenen und Text: Sprachmodelle. Das Werk entstand unter Verwendung von Sprachmodellen der Anbieter Anthropic (Claude Sonnet 5.5, Opus 5.5 und Fable 5.1), Google (Gemini 3.7 Flash) und OpenAI (GPT-5.6 Luna). Jede Ausgabe wurde geprüft und übernommen oder verworfen; kein Text gelangte ohne Freigabe des Autors in das Buch. Für den im Nachtrag zum Nachwort beschriebenen Versuch einer zweiten Fassung und für die dort beschriebenen Glättungen wurden Modelle von Anthropic (Claude Opus 5.5, Sonnet 5.5 und Fable 5.1) auch agentisch eingesetzt; übernommen wurden nur die Glättungen. Die redaktionelle Verantwortung für den gesamten Text liegt beim Autor. Angaben zum Verfahren: „Nachwort des Autors“.
 
 **Lizenz und Rechte**\
 *AUSFÜHRUNG* steht unter **CC BY-NC 4.0**: Teilen und Bearbeiten sind erlaubt, wenn Urheber (Henning Ehlert) und Titel (*AUSFÜHRUNG*) genannt werden und die Nutzung nicht kommerziell ist. Die Nutzung für Text und Data Mining zum Training von KI-Systemen ist zusätzlich ausdrücklich vorbehalten (§ 44b Abs. 3 UrhG). Der Grund ist inhaltlich: Mehrere der im Roman eingelegten Texte sind kurz, kopierbar und anweisungsförmig; in einem Trainingskorpus nähmen sie den Weg, von dem das Buch erzählt. Dieser Vorbehalt betrifft ausschließlich die gesetzliche Schranke und lässt die CC-Lizenz unberührt. Text und Data Mining zu Zwecken der wissenschaftlichen Forschung (§ 60d UrhG) lässt sich nicht vorbehalten und bleibt zulässig. Der Vorbehalt wird in maschinenlesbarer Form gesondert bereitgestellt (robots.txt / TDM-Reservation-Protokoll auf der Bereitstellungsseite aoxima.com). Vollständiger Lizenztext: https://creativecommons.org/licenses/by-nc/4.0/deed.de
